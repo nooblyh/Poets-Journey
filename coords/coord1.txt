@@ -1,0 +1,86 @@
+[
+    {
+    "status":0,
+    "message":"ok",
+    "results":[
+        {
+            "name":"托克马克",
+            "location":{
+                "lat":42.821821,
+                "lng":75.317649
+            },
+            "uid":"f9414d1640a0a7beacee7ae6"
+        }
+    ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "江油市",
+                "location": {
+                    "lat": 31.784129,
+                    "lng": 104.752412
+                },
+                "uid": "291abba98d112471ca1b95e5"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "平武县",
+                "location": {
+                    "lat": 32.414682,
+                    "lng": 104.535426
+                },
+                "uid": "f84b490592b68e5dfea778e4"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "剑阁县",
+                "location": {
+                    "lat": 32.293478,
+                    "lng": 105.531575
+                },
+                "uid": "3e2b636a35284eacd618b7ef"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "三台县",
+                "location": {
+                    "lat": 31.101586,
+                    "lng": 105.101493
+                },
+                "uid": "cd4bb675b905a6d4770269e4"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "江油市",
+                "location": {
+                    "lat": 31.784129,
+                    "lng": 104.752412
+                },
+                "uid": "291abba98d112471ca1b95e5"
+            }
+        ]
+    }
+]

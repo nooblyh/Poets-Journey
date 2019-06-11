@@ -1,0 +1,72 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "南京市",
+                "location": {
+                    "lat": 32.064652,
+                    "lng": 118.802422
+                },
+                "uid": "73d80fbb9cf7cc6a1d1d11e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "九江市",
+                "location": {
+                    "lat": 29.71134,
+                    "lng": 116.007533
+                },
+                "uid": "2afff4088a3d3ac08bdb73e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "亳州市",
+                "location": {
+                    "lat": 33.850642,
+                    "lng": 115.784466
+                },
+                "uid": "4606101ca8a6e39140e192e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "济宁市",
+                "location": {
+                    "lat": 35.420177,
+                    "lng": 116.593614
+                },
+                "uid": "3d23c7e0f91d160e6cc02ce7"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "池州市",
+                "location": {
+                    "lat": 30.670885,
+                    "lng": 117.498424
+                },
+                "uid": "6e01be553370194b9de321e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "青阳县",
+                "location": {
+                    "lat": 30.645634,
+                    "lng": 117.853434
+                },
+                "uid": "17e84b22df4728442bd7abee"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "泾县",
+                "location": {
+                    "lat": 30.694673,
+                    "lng": 118.426436
+                },
+                "uid": "62e005a521f094a72ce67bea"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "南陵县",
+                "location": {
+                    "lat": 30.92026,
+                    "lng": 118.340414
+                },
+                "uid": "3716ea8a7af77d1e8d7727ec"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "池州市",
+                "location": {
+                    "lat": 30.670885,
+                    "lng": 117.498424
+                },
+                "uid": "6e01be553370194b9de321e7"
+            }
+        ]
+    }
+]

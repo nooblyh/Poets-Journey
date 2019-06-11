@@ -1,0 +1,114 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "南昌市",
+                "location": {
+                    "lat": 28.689455,
+                    "lng": 115.864585
+                },
+                "uid": "dbfdcd488d1788696140a9e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "九江市",
+                "location": {
+                    "lat": 29.71134,
+                    "lng": 116.007533
+                },
+                "uid": "2afff4088a3d3ac08bdb73e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "怀远县",
+                "location": {
+                    "lat": 32.976004,
+                    "lng": 117.211505
+                },
+                "uid": "2906d0047cf66173901fc9e8"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "南京市",
+                "location": {
+                    "lat": 32.064652,
+                    "lng": 118.802422
+                },
+                "uid": "73d80fbb9cf7cc6a1d1d11e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "宜兴市",
+                "location": {
+                    "lat": 31.342957,
+                    "lng": 119.83161
+                },
+                "uid": "91d5943c7f6bf160f4b916eb"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "宣城市",
+                "location": {
+                    "lat": 30.946601,
+                    "lng": 118.765537
+                },
+                "uid": "295020dafee6635996f08ce7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "泾县",
+                "location": {
+                    "lat": 30.694673,
+                    "lng": 118.426436
+                },
+                "uid": "62e005a521f094a72ce67bea"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    }
+]

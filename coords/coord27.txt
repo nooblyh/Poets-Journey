@@ -1,0 +1,58 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "和县",
+                "location": {
+                    "lat": 31.748244,
+                    "lng": 118.359512
+                },
+                "uid": "6b2cceb291be753e07026fe9"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "溧阳市",
+                "location": {
+                    "lat": 31.422103,
+                    "lng": 119.491503
+                },
+                "uid": "6be4a4d6eab8d63de215f9e9"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    }
+]

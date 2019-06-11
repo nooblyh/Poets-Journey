@@ -1,0 +1,198 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "叶县",
+                "location": {
+                    "lat": 33.632491,
+                    "lng": 113.363586
+                },
+                "uid": "3cafde09961641927369d3ed"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "泰安市",
+                "location": {
+                    "lat": 36.205857,
+                    "lng": 117.094492
+                },
+                "uid": "6af9d4bbde1f0ace71210be7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "曲阜市",
+                "location": {
+                    "lat": 35.587374,
+                    "lng": 116.993414
+                },
+                "uid": "484581b735f607d3cafa5fee"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "西安市",
+                "location": {
+                    "lat": 34.347269,
+                    "lng": 108.946465
+                },
+                "uid": "6004101013367be6b817e7e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "商州区",
+                "location": {
+                    "lat": 33.868856,
+                    "lng": 109.947474
+                },
+                "uid": "894070f3819df2b3616858eb"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "洛阳市",
+                "location": {
+                    "lat": 34.624264,
+                    "lng": 112.459424
+                },
+                "uid": "3e23636a35284eacd618b7e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "开封市",
+                "location": {
+                    "lat": 34.802885,
+                    "lng": 114.314595
+                },
+                "uid": "a71bc211e1d36cf6ee74f8e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "杞县",
+                "location": {
+                    "lat": 34.554857,
+                    "lng": 114.789592
+                },
+                "uid": "f9484d1640a0a7beacee7aef"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "砀山县",
+                "location": {
+                    "lat": 34.448429,
+                    "lng": 116.372523
+                },
+                "uid": "1097e4ebfeac0b5f1c3894ef"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "聊城市",
+                "location": {
+                    "lat": 36.462759,
+                    "lng": 115.991588
+                },
+                "uid": "83b6032f9f0580f47ab55ce7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "吴桥县",
+                "location": {
+                    "lat": 37.633909,
+                    "lng": 116.397388
+                },
+                "uid": "b2af3ded88813cb717c8f6ef"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "深州市",
+                "location": {
+                    "lat": 38.006941,
+                    "lng": 115.566366
+                },
+                "uid": "004a15765c12d31fc6effbeb"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "济南市",
+                "location": {
+                    "lat": 36.656554,
+                    "lng": 117.126399
+                },
+                "uid": "e6ebd545d2c73bb682a12ee7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "济宁市",
+                "location": {
+                    "lat": 35.420177,
+                    "lng": 116.593614
+                },
+                "uid": "3d23c7e0f91d160e6cc02ce7"
+            }
+        ]
+    }
+]

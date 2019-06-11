@@ -1,0 +1,114 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "岳阳市",
+                "location": {
+                    "lat": 29.363177,
+                    "lng": 113.135488
+                },
+                "uid": "4a39640b740e4c06213bf2e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "江陵县",
+                "location": {
+                    "lat": 30.048043,
+                    "lng": 112.43145
+                },
+                "uid": "c53250076cf31073276e98e9"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "宜昌市",
+                "location": {
+                    "lat": 30.697446,
+                    "lng": 111.292552
+                },
+                "uid": "cda0ba05ba85655ecae33ce7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "巫山县",
+                "location": {
+                    "lat": 31.080519,
+                    "lng": 109.885545
+                },
+                "uid": "5e04ecca210ef240744ff1ec"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "奉节县",
+                "location": {
+                    "lat": 31.024602,
+                    "lng": 109.470474
+                },
+                "uid": "eacef98b35dc0df92fb96dea"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "武汉市",
+                "location": {
+                    "lat": 30.598467,
+                    "lng": 114.311586
+                },
+                "uid": "6d77fffca9cfa740ca09f0e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "临湘市",
+                "location": {
+                    "lat": 29.482802,
+                    "lng": 113.456561
+                },
+                "uid": "efcf3606ba7b9a549d82eaef"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "岳阳市",
+                "location": {
+                    "lat": 29.363177,
+                    "lng": 113.135488
+                },
+                "uid": "4a39640b740e4c06213bf2e7"
+            }
+        ]
+    }
+]

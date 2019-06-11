@@ -1,0 +1,58 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "扬州市",
+                "location": {
+                    "lat": 32.400676,
+                    "lng": 119.419423
+                },
+                "uid": "9e133d19c0cfce470f0a70e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "六安市",
+                "location": {
+                    "lat": 31.741452,
+                    "lng": 116.526412
+                },
+                "uid": "ba793ff2fb50b53e210220e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "庐江县",
+                "location": {
+                    "lat": 31.261327,
+                    "lng": 117.293574
+                },
+                "uid": "60f3d7b30813c6ee9ff779ea"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "当涂县",
+                "location": {
+                    "lat": 31.576649,
+                    "lng": 118.504607
+                },
+                "uid": "91d48de7681fc6473904b1ed"
+            }
+        ]
+    }
+]

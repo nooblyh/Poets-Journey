@@ -1,0 +1,295 @@
+[
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "武功县",
+                "location": {
+                    "lat": 34.266138,
+                    "lng": 108.206549
+                },
+                "uid": "9663f01efc56794e0482c2e9"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "岐山森林公园",
+                "location": {
+                    "lat": 26.875325,
+                    "lng": 112.146079
+                },
+                "address": "衡阳市衡南县鸡笼镇X101",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "telephone": "(0734)8775777",
+                "detail": 1,
+                "uid": "fd5255a78f68558725e0a000"
+            },
+            {
+                "name": "岐山村",
+                "location": {
+                    "lat": 26.865073,
+                    "lng": 112.164505
+                },
+                "address": "衡阳市衡南县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "49d9593879178243c61e51f4"
+            },
+            {
+                "name": "岐山收费站",
+                "location": {
+                    "lat": 26.859084,
+                    "lng": 112.231841
+                },
+                "address": "湖南省衡阳市衡南县岐山互通",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "b172a183378ed274afee7aa5"
+            },
+            {
+                "name": "荫岐山",
+                "location": {
+                    "lat": 27.011747,
+                    "lng": 112.280164
+                },
+                "address": "衡阳市衡阳县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡阳县",
+                "detail": 1,
+                "uid": "0adce3e2a8f7e26180a00c7a"
+            },
+            {
+                "name": "岐山互通",
+                "location": {
+                    "lat": 26.860931,
+                    "lng": 112.236614
+                },
+                "address": "湖南省衡阳市衡南县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 0,
+                "uid": "0eb120229705ec65d33ce35a"
+            },
+            {
+                "name": "岐山商店",
+                "location": {
+                    "lat": 26.878866,
+                    "lng": 112.507601
+                },
+                "address": "湖南省衡阳市衡南县农业科学研究所南(迎峰北路)",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "telephone": "15200583452",
+                "detail": 1,
+                "uid": "becfd1bc59def20c8836eef4"
+            },
+            {
+                "name": "岐山饭店",
+                "location": {
+                    "lat": 26.849293,
+                    "lng": 112.25399
+                },
+                "address": "衡阳市衡南县龙江路与322国道交叉口东北100米",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "telephone": "15116884959",
+                "detail": 1,
+                "uid": "8fe336c8511c46d4ece4a5a5"
+            },
+            {
+                "name": "岐山收费站",
+                "location": {
+                    "lat": 26.859325,
+                    "lng": 112.231956
+                },
+                "address": "湖南省衡阳市衡南县岐山互通",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "e377640bfba6b5ca3310af16"
+            },
+            {
+                "name": "衡南县岐山小学",
+                "location": {
+                    "lat": 26.871752,
+                    "lng": 112.161016
+                },
+                "address": "湖南省衡阳市衡南县岐山办事处岐山完小",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "ff47f75ac9932f13260bd0e3"
+            },
+            {
+                "name": "岐山森林公园-停车场",
+                "location": {
+                    "lat": 26.870186,
+                    "lng": 112.143822
+                },
+                "address": "衡阳市衡南县鸡笼镇岐山森林公园内",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "31d430f8b3942705c8213d1a"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "彬州市",
+                "location": {
+                    "lat": 35.049611,
+                    "lng": 108.084568
+                },
+                "uid": "672803f21eab69ac1b94c6e9"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "黄陵县",
+                "location": {
+                    "lat": 35.585077,
+                    "lng": 109.269604
+                },
+                "uid": "6b23ceb291be753e07026fee"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "西安市",
+                "location": {
+                    "lat": 34.347269,
+                    "lng": 108.946465
+                },
+                "uid": "6004101013367be6b817e7e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "华州区",
+                "location": {
+                    "lat": 34.518731,
+                    "lng": 109.778476
+                },
+                "uid": "b66cf1e98714679d55bfff37"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "商丘市",
+                "location": {
+                    "lat": 34.420202,
+                    "lng": 115.662449
+                },
+                "uid": "8399702dc8e2ee51fe0eb0e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "荥阳市",
+                "location": {
+                    "lat": 34.793811,
+                    "lng": 113.389421
+                },
+                "uid": "89d1491c4c1e9a9b3ce231ee"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "登封市",
+                "location": {
+                    "lat": 34.459697,
+                    "lng": 113.05642
+                },
+                "uid": "2fe6091b1cd504ab471a32ee"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "洛阳市",
+                "location": {
+                    "lat": 34.624264,
+                    "lng": 112.459424
+                },
+                "uid": "3e23636a35284eacd618b7e7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "南阳市",
+                "location": {
+                    "lat": 32.996561,
+                    "lng": 112.534504
+                },
+                "uid": "60742011290410696f3e1be7"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [
+            {
+                "name": "安陆市",
+                "location": {
+                    "lat": 31.261414,
+                    "lng": 113.695582
+                },
+                "uid": "e37070d98bb717f04d776eef"
+            }
+        ]
+    }
+]
