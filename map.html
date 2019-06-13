@@ -13,33 +13,8 @@
     <script src="/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
     <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
     <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
-    <script src="/coords/coord1.json"></script>
-    <script src="/coords/coord2.json"></script>
-    <script src="/coords/coord3.json"></script>
-    <script src="/coords/coord4.json"></script>
-    <script src="/coords/coord5.json"></script>
-    <script src="/coords/coord6.json"></script>
-    <script src="/coords/coord7.json"></script>
-    <script src="/coords/coord8.json"></script>
-    <script src="/coords/coord9.json"></script>
-    <script src="/coords/coord10.json"></script>
-    <script src="/coords/coord11.json"></script>
-    <script src="/coords/coord12.json"></script>
-    <script src="/coords/coord13.json"></script>
-    <script src="/coords/coord14.json"></script>
-    <script src="/coords/coord15.json"></script>
-    <script src="/coords/coord16.json"></script>
-    <script src="/coords/coord17.json"></script>
-    <script src="/coords/coord18.json"></script>
-    <script src="/coords/coord19.json"></script>
-    <script src="/coords/coord20.json"></script>
-    <script src="/coords/coord21.json"></script>
-    <script src="/coords/coord22.json"></script>
-    <script src="/coords/coord23.json"></script>
-    <script src="/coords/coord24.json"></script>
-    <script src="/coords/coord25.json"></script>
-    <script src="/coords/coord26.json"></script>
-    <script src="/coords/coord27.json"></script>
+    <script src="/coords"></script>
+    
 
 
     
@@ -51,7 +26,7 @@
         // 基于准备好的dom，初始化echarts图表
         var myChart = echarts.init(document.getElementById('main'));
 
-for (var stage = 1; stage < 4; stage++) {
+for (var stage = 1; stage < 28; stage++) {
     $.getJSON('/coords/coord'+stage+'.json',function(data){
         addOption(data);
     });
