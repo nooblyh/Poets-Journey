@@ -18,13 +18,13 @@
 * under the License.
 */
 
-var echarts = require("echarts");
+import { registerCoordinateSystem, registerAction } from "echarts";
 
-var BMapCoordSys = require("./BMapCoordSys");
+import BMapCoordSys from "./BMapCoordSys";
 
-require("./BMapModel");
+import "./BMapModel";
 
-require("./BMapView");
+import "./BMapView";
 
 /*
 * Licensed to the Apache Software Foundation (ASF) under one
@@ -48,9 +48,9 @@ require("./BMapView");
 /**
  * BMap component extension
  */
-echarts.registerCoordinateSystem('bmap', BMapCoordSys); // Action
+registerCoordinateSystem('bmap', BMapCoordSys); // Action
 
-echarts.registerAction({
+registerAction({
   type: 'bmapRoam',
   event: 'bmapRoam',
   update: 'updateLayout'
@@ -62,4 +62,5 @@ echarts.registerAction({
   });
 });
 var version = '1.0.0';
-exports.version = version;
+const _version = version;
+export { _version as version };
