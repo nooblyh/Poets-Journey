@@ -12,6 +12,7 @@
     <script src="/scripts/incubator-echarts-4.2.1/dist/echarts.js"></script>
     <script src="/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
     <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
     <script src="/coords/coord1.json"></script>
     <script src="/coords/coord2.json"></script>
     <script src="/coords/coord3.json"></script>
@@ -49,10 +50,14 @@
     <!--在这里输入调用Echart的代码-->
         // 基于准备好的dom，初始化echarts图表
         var myChart = echarts.init(document.getElementById('main'));
-                
 
+for (var stage = 1; stage < 4; stage++) {
+    $.getJSON('/coords/coord'+stage+'.json',function(data){
+        addOption(data);
+    });
+}
 
-var data = [
+var testdata = [
     {
     "status":0,
     "message":"ok",
@@ -138,7 +143,10 @@ var data = [
         ]
     }
 ];
-var myseries = [];
+window.alert(testdata);
+
+var addOption = function(data) {
+    var myseries = [];
 var color = ['#a6c84c', '#ffa022', '#46bee9'];
     
 for (var i = 1; i < data.length; i++) {
@@ -210,8 +218,6 @@ for (var i = 1; i < data.length; i++) {
 }
 
 
-
-    
 
 
 
@@ -367,6 +373,8 @@ series: myseries
 
                 // 为echarts对象加载数据
                 myChart.setOption(option);
+
+}
 
 
     </script>
