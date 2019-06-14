@@ -1,0 +1,82 @@
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武威市",
+            "location": { "lat": 37.934378, "lng": 102.644556 },
+            "uid": "9698b43816104a0cb54f54e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安市",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄阳市",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "钟祥市",
+            "location": { "lat": 31.17403, "lng": 112.594475 },
+            "uid": "e6e2d545d2c73bb682a12eee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武汉市",
+            "location": { "lat": 30.598467, "lng": 114.311586 },
+            "uid": "6d77fffca9cfa740ca09f0e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "桂林市",
+            "location": { "lat": 25.242887, "lng": 110.203545 },
+            "uid": "b2537f17034f2e3f59bbbce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "南京市",
+            "location": { "lat": 32.064652, "lng": 118.802422 },
+            "uid": "73d80fbb9cf7cc6a1d1d11e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "九江市",
+            "location": { "lat": 29.71134, "lng": 116.007533 },
+            "uid": "2afff4088a3d3ac08bdb73e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安市",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    }
+]

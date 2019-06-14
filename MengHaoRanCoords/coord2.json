@@ -1,0 +1,46 @@
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "南昌市",
+            "location": { "lat": 28.689455, "lng": 115.864585 },
+            "uid": "dbfdcd488d1788696140a9e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "南康区",
+            "location": { "lat": 25.667052, "lng": 114.771536 },
+            "uid": "bc8058392e18d696f9f0cb67"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "九江市",
+            "location": { "lat": 29.71134, "lng": 116.007533 },
+            "uid": "2afff4088a3d3ac08bdb73e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄阳市",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武汉市",
+            "location": { "lat": 30.598467, "lng": 114.311586 },
+            "uid": "6d77fffca9cfa740ca09f0e7"
+        }]
+    }
+]

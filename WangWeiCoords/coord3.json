@@ -1,0 +1,40 @@
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "泰安市",
+            "location": { "lat": 36.205857, "lng": 117.094492 },
+            "uid": "6af9d4bbde1f0ace71210be7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "东阿县",
+            "location": { "lat": 36.340958, "lng": 116.254495 },
+            "uid": "3d25c7e0f91d160e6cc02ce9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "清水县",
+            "location": {
+                "lat": 34.753883,
+                "lng": 106.143599
+            },
+            "uid": "c4e76680b6f2d35bad31e5ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "东阿县",
+            "location": { "lat": 36.340958, "lng": 116.254495 },
+            "uid": "3d25c7e0f91d160e6cc02ce9"
+        }]
+    }
+]

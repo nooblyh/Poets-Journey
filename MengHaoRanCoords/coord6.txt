@@ -1,0 +1,19 @@
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "æ£÷› –",
+            "location": { "lat": 30.340843, "lng": 112.245519 },
+            "uid": "cae9050c8703c20b0a5cb3e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "œÂ—Ù –",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    }
+]

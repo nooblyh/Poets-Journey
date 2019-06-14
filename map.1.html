@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Libai's Life Journey</title>
+</head>
+
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="height:650px;width:1450px"></div>
+    <!-- 文件引入 -->
+    <script src="http://api.map.baidu.com/api?v=2.0&ak=VEbNXPaYgMqt19eieq6hWKf4jqwZIuUs"></script>
+    <script src="/scripts/incubator-echarts-4.2.1/dist/echarts.js"></script>
+    <script src="/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
+    <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+    < script src = "/coords" ></script>
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        <!--在这里输入调用Echart的代码-->
+        // 基于准备好的dom，初始化echarts图表
+
+        var baseOption = {
+            animation:false,
+            title: {
+                text: '李白',
+                subtext: 'by lyh',
+                left: 'center',
+                textStyle: {
+                    color: '#fff'
+                }
+            },
+            tooltip: {
+                trigger: 'item'
+            },
+            bmap: {
+                center: [104.114129, 37.550339],
+                zoom: 5,
+                roam: true,
+                mapStyle: {
+                    styleJson: [{
+                        "featureType": "water",
+                        "elementType": "all",
+                        "stylers": {
+
+                        }
+                    }, {
+                        "featureType": "land",
+                        "elementType": "all",
+                        "stylers": {
+
+                        }
+                    }, {
+                        "featureType": "boundary",
+                        "elementType": "all",
+                        "stylers": {}
+                    }, {
+                        "featureType": "railway",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "highway",
+                        "elementType": "geometry",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "highway",
+                        "elementType": "geometry.fill",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "highway",
+                        "elementType": "labels",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "arterial",
+                        "elementType": "geometry",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "arterial",
+                        "elementType": "geometry.fill",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "poi",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "green",
+                        "elementType": "all",
+                        "stylers": {
+                            "color": "#056197",
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "subway",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "manmade",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "local",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "arterial",
+                        "elementType": "labels",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "boundary",
+                        "elementType": "geometry.fill",
+                        "stylers": {}
+                    }, {
+                        "featureType": "building",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }, {
+                        "featureType": "label",
+                        "elementType": "all",
+                        "stylers": {
+                            "visibility": "off"
+                        }
+                    }]
+                }
+            },
+            timeline: {
+                // y: 0,
+                axisType: 'category',
+                
+                // realtime: false,
+                // loop: false,
+                autoPlay: false,
+                // currentIndex: 2,
+                playInterval: 12000,
+                // controlStyle: {
+                //     position: 'left'
+                // },
+                data: [
+                    '0-18岁', '19-23岁', '23-25岁', {
+                        value: '25-26岁',
+                        symbol: 'diamond',
+                        symbolSize: 16
+                    },
+                     '27-29岁', '29-31岁', '31-35岁', '35-37岁', '37-39岁',{
+                        value: '39-40岁',
+                        symbol: 'diamond',
+                        symbolSize: 18
+                    },
+                ],
+                label: {
+                    formatter: '{value}'
+                }
+            }
+        }
+
+        var myChart = echarts.init(document.getElementById('main'));
+        
+
+
+        var addOption = function(data) {
+            var myseries = [];
+            var color = ['#a6c84c', '#ffa022', '#46bee9'];
+
+            for (let i = 1; i < data.length; i++) {
+                var fromItem = data[i - 1]
+                var toItem = data[i];
+                var res = [];
+                var fromCoord = [fromItem["results"][0]["location"]["lng"], fromItem["results"][0]["location"]["lat"]];
+                var toCoord = [toItem["results"][0]["location"]["lng"], toItem["results"][0]["location"]["lat"]];
+                if (fromCoord && toCoord) {
+                    res.push({
+                        fromName: fromItem.name,
+                        toName: toItem.name,
+                        coords: [fromCoord, toCoord]
+                    });
+                }
+                myseries.push({
+                    animationDelay:9999,
+                    name: 'childhood',
+                    type: 'lines',
+                    coordinateSystem: 'bmap',
+                    polyline: true,
+                    zlevel: 1,
+                    effect: {
+                        loop: false,
+                        show: true,
+                        delay: (i - 1) * 4000,
+                        period: 4,
+                        trailLength: 0.7,
+                        color: '#fff',
+                        symbolSize: 3
+                    },
+                    lineStyle: {
+                        normal: {
+                            color: color[0],
+                            width: 0,
+                            curveness: 0.2
+                        }
+                    },
+                    data: res
+                }, 
+                {
+                    animationDelay:9999,
+                    name: 'childhood',
+                    type: 'lines',
+                    coordinateSystem: 'bmap',
+                    polyline: true,
+                    zlevel: 2,
+                    symbol: ['none', 'arrow'],
+                    symbolSize: 10,
+                    effect: {
+                        loop: false,
+                        show: true,
+                        delay: (i - 1) * 4000,
+                        period: 4,
+                        trailLength: 0,
+                        symbol: '',
+                        symbolSize: 15
+                    },
+                    lineStyle: {
+                        normal: {
+                            color: color[0],
+                            width: 5,
+                            opacity: 0.6,
+                            curveness: 0.2
+                        }
+                    },
+                    data: res
+                });
+            }
+
+
+
+
+
+            var oneOption = {
+                // backgroundColor: '#404a59',
+
+                
+                series: myseries
+            };
+
+
+            // 为echarts对象加载数据
+            allOption.push(oneOption);
+
+        }
+
+        var allOption = [];
+        for (let stage = 1; stage < 11; stage++) {
+            $.ajaxSettings.async = false;
+            $.getJSON('/coords/coord' + stage + '.json', function(data) {
+                addOption(data);
+            });
+
+        }
+        option = {
+            baseOption: baseOption,
+            options: allOption
+        }
+
+        myChart.setOption(option);
+        myChart.on('timelineChanged', function () {
+            myChart.setOption({});
+        });
+
+    </script>
+</body>
