@@ -15,6 +15,8 @@
     <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
     <script src="/LiBaiCoords/coord.json"></script>
     <script src="/DuFuCoords/coord.json"></script>
+    <script src="/MengHaoRanCoords/coord.json"></script>
+    <script src="/WangWeiCoords/coord.json"></script>
 
 
     
@@ -26,7 +28,7 @@
         // 基于准备好的dom，初始化echarts图表
         var myChart = echarts.init(document.getElementById('main'));
 
-    $.getJSON('/DuFuCoords/coord.json',function(data){
+    $.getJSON('/MengHaoRanCoords/coord.json',function(data){
         addOption(data);
     });
 var addOption = function(data) {
@@ -56,8 +58,8 @@ for (var i = 1; i < data.length; i++) {
     effect: {
         loop: true,
         show: true,
-        delay: (i-1)*1000,
-        period: 1,
+        delay: (i-1)*4000,
+        period: 4,
         trailLength: 1,
         color: color[1],
         symbolSize: 1.5
@@ -83,8 +85,8 @@ for (var i = 1; i < data.length; i++) {
     effect: {
         loop: false,
         show: true,
-        delay: (i-1)*1000,
-        period: 1,
+        delay: (i-1)*4000,
+        period: 4,
         trailLength: 0,
         symbol: 'image://https://08.imgmini.eastday.com/mobile/20180728/20180728003657_6ab9829ca3b0968db7f8658ba3c6c45d_1.jpeg',
         symbolSize: 30
