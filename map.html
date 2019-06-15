@@ -28,13 +28,29 @@
         // 基于准备好的dom，初始化echarts图表
         var myChart = echarts.init(document.getElementById('main'));
 
-    $.getJSON('/MengHaoRanCoords/coord.json',function(data){
+    $.getJSON('/LiBaiCoords/coord.json',function(data){
         addOption(data);
     });
 var addOption = function(data) {
     var myseries = [];
 var color = ['#a6c84c', '#ffa022', '#46bee9'];
-    
+    myseries.push({type:'scatter',
+            coordinateSystem: 'bmap',
+            color:color[0],
+            zlevel: 2,
+            label: {
+            normal: {
+                show: true,
+                position: 'right',
+                formatter: '{b}'
+            }
+             },
+            data: data.map(function (dataItem) {
+            return {
+                name: dataItem["results"][0]["name"],
+                value: [dataItem["results"][0]["location"]["lng"],dataItem["results"][0]["location"]["lat"]]
+            };
+        })});
 for (var i = 1; i < data.length; i++) {
     var fromItem = data[i-1]
     var toItem = data[i];
@@ -52,16 +68,16 @@ for (var i = 1; i < data.length; i++) {
     name: 'childhood',
     type: 'lines',
     coordinateSystem: 'bmap',
-    polyline: true,
+    polyline: false,
     zlevel: 1,
     
     effect: {
-        loop: true,
+        loop: false,
         show: true,
         delay: (i-1)*4000,
         period: 4,
-        trailLength: 1,
-        color: color[1],
+        trailLength: 0.1,
+        color: color[0],
         symbolSize: 1.5
     },
     lineStyle: {
@@ -77,10 +93,10 @@ for (var i = 1; i < data.length; i++) {
     name: 'childhood',
     type: 'lines',
     coordinateSystem: 'bmap',
-    polyline: true,
+    polyline: false,
     zlevel: 2,
-    symbol: ['none', 'arrow'],
-    symbolSize: 10,
+    symbol: ['none', 'circle'],
+    symbolSize: 5,
     
     effect: {
         loop: false,
@@ -243,7 +259,7 @@ option = {
                         "featureType": "label",
                         "elementType": "all",
                         "stylers": {
-                            
+                            "visibility": "off"
                         }
                     }
             ]

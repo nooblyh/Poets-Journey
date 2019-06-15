@@ -157,10 +157,9 @@
                 axisType: 'category',
                 
                 // realtime: false,
-                // loop: false,
-                autoPlay: false,
-                // currentIndex: 2,
-                playInterval: 12000,
+                loop: true,
+                autoPlay: true,
+                currentIndex: 0,
                 // controlStyle: {
                 //     position: 'left'
                 // },
@@ -190,6 +189,26 @@
             var myseries = [];
             var color = ['#a6c84c', '#ffa022', '#46bee9'];
 
+
+            myseries.push({type:'scatter',
+            coordinateSystem: 'bmap',
+            zlevel: 2,
+            color:color[0],
+            label: {
+            normal: {
+                show: true,
+                position: 'right',
+                formatter: '{b}'
+            }
+             },
+            data: data.map(function (dataItem) {
+            return {
+                name: dataItem["results"][0]["name"],
+                value: [dataItem["results"][0]["location"]["lng"],dataItem["results"][0]["location"]["lat"]]
+            };
+        })});
+
+
             for (let i = 1; i < data.length; i++) {
                 var fromItem = data[i - 1]
                 var toItem = data[i];
@@ -204,11 +223,10 @@
                     });
                 }
                 myseries.push({
-                    animationDelay:9999,
                     name: 'childhood',
                     type: 'lines',
                     coordinateSystem: 'bmap',
-                    polyline: true,
+                    polyline: false,
                     zlevel: 1,
                     effect: {
                         loop: false,
@@ -226,14 +244,13 @@
                             curveness: 0.2
                         }
                     },
-                    data: res
+                    data: res,
                 }, 
                 {
-                    animationDelay:9999,
                     name: 'childhood',
                     type: 'lines',
                     coordinateSystem: 'bmap',
-                    polyline: true,
+                    polyline: false,
                     zlevel: 2,
                     symbol: ['none', 'arrow'],
                     symbolSize: 10,
@@ -243,13 +260,13 @@
                         delay: (i - 1) * 4000,
                         period: 4,
                         trailLength: 0,
-                        symbol: '',
+                        symbol: 'image://https://08.imgmini.eastday.com/mobile/20180728/20180728003657_6ab9829ca3b0968db7f8658ba3c6c45d_1.jpeg',
                         symbolSize: 15
                     },
                     lineStyle: {
                         normal: {
                             color: color[0],
-                            width: 5,
+                            width: 1,
                             opacity: 0.6,
                             curveness: 0.2
                         }
@@ -264,7 +281,7 @@
 
             var oneOption = {
                 // backgroundColor: '#404a59',
-
+                timeline: {playInterval: (data.length-1)*4000},
                 
                 series: myseries
             };
@@ -278,7 +295,7 @@
         var allOption = [];
         for (let stage = 1; stage < 11; stage++) {
             $.ajaxSettings.async = false;
-            $.getJSON('/coords/coord' + stage + '.json', function(data) {
+            $.getJSON('/LiBaiCoords/coord' + stage + '.json', function(data) {
                 addOption(data);
             });
 
@@ -290,7 +307,10 @@
 
         myChart.setOption(option);
         myChart.on('timelineChanged', function () {
-            myChart.setOption({});
+            x = myChart.getOption().timeline[0].currentIndex;
+            baseOption["timeline"]["currentIndex"] = x;
+            myChart.clear();
+            myChart.setOption(option);
         });
 
     </script>
