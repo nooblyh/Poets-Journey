@@ -194,6 +194,9 @@
             coordinateSystem: 'bmap',
             zlevel: 2,
             color:color[0],
+            tooltip:{
+                formatter: '{b}'
+            },
             label: {
             normal: {
                 show: true,
@@ -217,13 +220,13 @@
                 var toCoord = [toItem["results"][0]["location"]["lng"], toItem["results"][0]["location"]["lat"]];
                 if (fromCoord && toCoord) {
                     res.push({
-                        fromName: fromItem.name,
-                        toName: toItem.name,
+                        fromName: fromItem['results'][0]['name'],
+                        toName: toItem['results'][0]['name'],
                         coords: [fromCoord, toCoord]
                     });
                 }
                 myseries.push({
-                    name: 'childhood',
+                    name: res[0]['fromName']+'->'+res[0]['toName'],
                     type: 'lines',
                     coordinateSystem: 'bmap',
                     polyline: false,
@@ -247,7 +250,7 @@
                     data: res,
                 }, 
                 {
-                    name: 'childhood',
+                    name: res[0]['fromName']+'->'+res[0]['toName'],
                     type: 'lines',
                     coordinateSystem: 'bmap',
                     polyline: false,
