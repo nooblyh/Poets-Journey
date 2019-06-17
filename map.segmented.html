@@ -14,7 +14,7 @@
     <script src="/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
     <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
     <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="/coords"></script>
+    <script src="/coords/LiBaiCoords"></script>
 
 
 
@@ -161,18 +161,7 @@
                 // controlStyle: {
                 //     position: 'left'
                 // },
-                data: [
-                    '0-18岁', '19-23岁', '23-25岁', {
-                        value: '25-26岁',
-                        symbol: 'diamond',
-                        symbolSize: 16
-                    },
-                    '27-29岁', '29-31岁', '31-35岁', '35-37岁', '37-39岁', {
-                        value: '39-40岁',
-                        symbol: 'diamond',
-                        symbolSize: 18
-                    },
-                ],
+                data: ['0-18岁', '19-23岁', '23-25岁', '25-26岁', '27-29岁', '29-31岁', '31-35岁', '35-37岁', '37-39岁', '39-40岁', '40-43岁', '43-44岁', '44-45岁', '45-46岁', '46-47岁', '47岁', '48-49岁', '49-53岁', '53岁', '53-54岁', '54-55岁', '55-56岁', '56-57岁', '57-58岁', '58-59岁', '59-60岁', '60-61岁'],
                 label: {
                     formatter: '{value}'
                 }
@@ -296,9 +285,9 @@
         }
 
         var allOption = [];
-        for (let stage = 1; stage < 11; stage++) {
+        for (let stage = 1; stage < 28; stage++) {
             $.ajaxSettings.async = false;
-            $.getJSON('/LiBaiCoords/coord' + stage + '.json', function(data) {
+            $.getJSON('coords/LiBaiCoords/coord' + stage + '.json', function(data) {
 
                 addOption(data, allOption);
             });
