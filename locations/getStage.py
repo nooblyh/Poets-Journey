@@ -9,6 +9,6 @@ for line in lines:
         line = line[:-1]
         list.append(line)
     i+=1
-tofile = open('WangWeiStage.txt', mode='w+',encoding='UTF-8-sig')
+tofile = open('../stages/WangWeiStage.txt', mode='w+',encoding='UTF-8-sig')
 tofile.write(str(list))
 tofile.close()

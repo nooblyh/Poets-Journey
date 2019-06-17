@@ -3,7 +3,7 @@ import requests
 import json
 import time
 
-file = open('C:\\Users\\l4728\\Documents\\data_visualization\\locations\\DuFu.txt', mode='r', encoding='UTF-8-sig')
+file = open('./locations/DuFu.txt', mode='r', encoding='UTF-8-sig')
 citys = file.readlines()
 i = 0
 ii = 1
@@ -25,7 +25,7 @@ for line in citys:
             req.encoding = 'utf-8'
             list.append(json.loads(req.text))
             print(json.loads(req.text))
-        with open('C:\\Users\\l4728\\Documents\\data_visualization\\DuFuCoords\\coord'+str(ii)+'.txt','w+') as coord:
+        with open('./DuFuCoords/coord'+str(ii)+'.txt','w+') as coord:
                 json.dump(list, coord, ensure_ascii=False)
         ii+=1
     i += 1
