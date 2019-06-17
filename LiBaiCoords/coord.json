@@ -317,14 +317,12 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "岐山村",
-            "location": { "lat": 26.865073, "lng": 112.164505 },
-            "address": "衡阳市衡南县",
-            "province": "湖南省",
-            "city": "衡阳市",
-            "area": "衡南县",
-            "detail": 1,
-            "uid": "49d9593879178243c61e51f4"
+            "name": "岐山县",
+            "location": {
+                "lat": 34.449776,
+                "lng": 107.627447
+            },
+            "uid": "87ebb953ff003ccb5d17c3e9"
         }]
     },
     {
