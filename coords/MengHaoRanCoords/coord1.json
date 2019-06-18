@@ -2,7 +2,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "ÏåÑôÊÐ",
+            "name": "è¥„é˜³",
             "location": { "lat": 32.014797, "lng": 112.128533 },
             "uid": "514a79d8cd6e54eaaaf0cd0d"
         }]
@@ -11,7 +11,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "ÔÀÑôÊÐ",
+            "name": "å²³é˜³",
             "location": { "lat": 29.363177, "lng": 113.135488 },
             "uid": "4a39640b740e4c06213bf2e7"
         }]
@@ -20,7 +20,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "å¢ÏØ",
+            "name": "æ¾§åŽ¿",
             "location": { "lat": 29.638946, "lng": 111.765537 },
             "uid": "1099e4ebfeac0b5f1c3894e9"
         }]
@@ -29,7 +29,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "ÏåÑôÊÐ",
+            "name": "è¥„é˜³",
             "location": { "lat": 32.014797, "lng": 112.128533 },
             "uid": "514a79d8cd6e54eaaaf0cd0d"
         }]

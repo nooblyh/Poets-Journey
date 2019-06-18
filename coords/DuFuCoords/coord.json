@@ -1,0 +1,1448 @@
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巩义",
+            "location": { "lat": 34.754098, "lng": 113.028428 },
+            "uid": "0681a2b9c12e63bf8505bfe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "漯河",
+            "location": { "lat": 33.58771, "lng": 114.023419 },
+            "uid": "751fd7e4fbe5fe527ec876e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "漯河",
+            "location": { "lat": 33.58771, "lng": 114.023419 },
+            "uid": "751fd7e4fbe5fe527ec876e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "临猗",
+            "location": { "lat": 35.149542, "lng": 110.78041 },
+            "uid": "91fd0d01d327cb7526d2bbee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "南京",
+            "location": { "lat": 32.064652, "lng": 118.802422 },
+            "uid": "73d80fbb9cf7cc6a1d1d11e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "苏州",
+            "location": { "lat": 31.303565, "lng": 120.592412 },
+            "uid": "40ca934b3252e3a58a36eee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "杭州",
+            "location": { "lat": 30.253082, "lng": 120.21551 },
+            "uid": "99f429f6963d1f271fe999e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "绍兴",
+            "location": { "lat": 30.03637, "lng": 120.585477 },
+            "uid": "1205212d15f096fb9fec2be7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "萧山",
+            "location": { "lat": 30.187511, "lng": 120.270469 },
+            "uid": "0bece73a741c43beeb1e97ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "嵊州",
+            "location": { "lat": 29.567328, "lng": 120.837434 },
+            "uid": "295b20dafee6635996f08cec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "新昌",
+            "location": { "lat": 29.50554, "lng": 120.910574 },
+            "uid": "62e305a521f094a72ce67be9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "浙江",
+            "location": { "lat": 30.271549, "lng": 120.159537 },
+            "uid": "6ee959d082e57f532e4733e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "泰安",
+            "location": { "lat": 36.205857, "lng": 117.094492 },
+            "uid": "6af9d4bbde1f0ace71210be7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "兖州",
+            "location": { "lat": 35.557953, "lng": 116.790119 },
+            "uid": "6e891cf468b039602bfc484e"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "山东",
+            "location": { "lat": 36.674857, "lng": 117.027442 },
+            "uid": "672f03f21eab69ac1b94c6e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "兖州",
+            "location": { "lat": 35.557953, "lng": 116.790119 },
+            "uid": "6e891cf468b039602bfc484e"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "济宁",
+            "location": { "lat": 35.420177, "lng": 116.593614 },
+            "uid": "3d23c7e0f91d160e6cc02ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "商丘",
+            "location": { "lat": 34.420202, "lng": 115.662449 },
+            "uid": "8399702dc8e2ee51fe0eb0e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "济南",
+            "location": { "lat": 36.656554, "lng": 117.126399 },
+            "uid": "e6ebd545d2c73bb682a12ee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "兖州",
+            "location": { "lat": 35.557953, "lng": 116.790119 },
+            "uid": "6e891cf468b039602bfc484e"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "咸阳",
+            "location": { "lat": 34.335476, "lng": 108.715421 },
+            "uid": "06047d40100f17f0601809e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "礼泉",
+            "location": { "lat": 34.48739, "lng": 108.431619 },
+            "uid": "b9c05315cc428d06b72655ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蒲城",
+            "location": { "lat": 34.961273, "lng": 109.5925 },
+            "uid": "d648d4bbf3703f4b9e9d68ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蒲城",
+            "location": { "lat": 34.961273, "lng": 109.5925 },
+            "uid": "d648d4bbf3703f4b9e9d68ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "白水",
+            "location": { "lat": 35.183288, "lng": 109.597521 },
+            "uid": "b2587f17034f2e3f59bbbcec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蒲城",
+            "location": { "lat": 34.961273, "lng": 109.5925 },
+            "uid": "d648d4bbf3703f4b9e9d68ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "白水",
+            "location": { "lat": 35.183288, "lng": 109.597521 },
+            "uid": "b2587f17034f2e3f59bbbcec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "富县",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "富县",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "彬州",
+            "location": { "lat": 35.049611, "lng": 108.084568 },
+            "uid": "672803f21eab69ac1b94c6e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "玉华宫",
+                "location": { "lat": 35.330142, "lng": 108.920788 },
+                "address": "陕西省铜川市印台区玉华公路附近",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "宜君县",
+                "street_id": "d6ee8724f46480e3a8f0cdec",
+                "telephone": "(0919)7586001",
+                "detail": 1,
+                "uid": "d6ee8724f46480e3a8f0cdec"
+            },
+            {
+                "name": "玉华宫-停车场",
+                "location": { "lat": 35.349406, "lng": 108.957594 },
+                "address": "305省道",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "宜君县",
+                "detail": 1,
+                "uid": "c765b02b4cb8d8e9764ff1b3"
+            },
+            {
+                "name": "玉华宫风景区售票处",
+                "location": { "lat": 35.332178, "lng": 108.908018 },
+                "address": "陕西省铜川市印台区金锁关镇玉华宫风景区附近",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "印台区",
+                "detail": 1,
+                "uid": "b577b30832d56aa64afd3f13"
+            },
+            {
+                "name": "玉华宫酒店",
+                "location": { "lat": 35.334186, "lng": 108.911124 },
+                "address": "陕西省铜川市印台区玉华宫景区玉华宫酒店",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "印台区",
+                "telephone": "(0919)7762288",
+                "detail": 1,
+                "uid": "06db3d07f430b28830169bea"
+            },
+            {
+                "name": "玉华宫风景区-西门",
+                "location": { "lat": 35.332032, "lng": 108.907818 },
+                "address": "玉华宫风景区西",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "印台区",
+                "detail": 1,
+                "uid": "170cf7760f4be6b26fc02c18"
+            },
+            {
+                "name": "玉华宫风景区-南门",
+                "location": { "lat": 35.338803, "lng": 108.938966 },
+                "address": "陕西省铜川市宜君县玉华宫风景区南",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "宜君县",
+                "detail": 1,
+                "uid": "d61797c41f85415588fc066b"
+            },
+            {
+                "name": "玉华宫管理局",
+                "location": { "lat": 35.341038, "lng": 108.937489 },
+                "address": "玉华宫景区内",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "宜君县",
+                "detail": 1,
+                "uid": "18c158e14e5241c52b201aa9"
+            },
+            {
+                "name": "铜川市玉华宫管理局",
+                "location": { "lat": 34.903008, "lng": 108.951567 },
+                "address": "正阳路9",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "耀州区",
+                "street_id": "ffd6d40395cb9ff117b54b66",
+                "detail": 1,
+                "uid": "ffd6d40395cb9ff117b54b66"
+            },
+            {
+                "name": "玉华宫立交",
+                "location": { "lat": 35.362985, "lng": 108.98178 },
+                "address": "陕西省铜川市宜君县",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "宜君县",
+                "detail": 0,
+                "uid": "037fcf29e5f1bd4cf603b8b4"
+            },
+            {
+                "name": "玉华宫酒店-桌球室",
+                "location": { "lat": 35.334185, "lng": 108.911124 },
+                "address": "陕西省铜川市印台区玉华宫酒店(玉华宫风景区西)",
+                "province": "陕西省",
+                "city": "铜川市",
+                "area": "印台区",
+                "telephone": "(0919)7762288",
+                "detail": 1,
+                "uid": "fd66dad660a193ba5bbbbc9c"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "富县",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "白水",
+            "location": { "lat": 35.183288, "lng": 109.597521 },
+            "uid": "b2587f17034f2e3f59bbbcec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "富县",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华州",
+            "location": { "lat": 34.518731, "lng": 109.778476 },
+            "uid": "b66cf1e98714679d55bfff37"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蓝田",
+            "location": { "lat": 34.15762, "lng": 109.329386 },
+            "uid": "e3fa659fc90588150c0e6bee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华州",
+            "location": { "lat": 34.518731, "lng": 109.778476 },
+            "uid": "b66cf1e98714679d55bfff37"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "故县",
+                "location": { "lat": 36.831576, "lng": 112.929874 },
+                "address": "山西省长治市武乡县故县乡政府(城东街北)",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "武乡县",
+                "detail": 1,
+                "uid": "81d6a5098bd50f416f20b9b1"
+            },
+            {
+                "name": "故县镇",
+                "location": { "lat": 36.603066, "lng": 112.632572 },
+                "address": "山西省长治市沁县故县镇委(段宜线东)",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "沁县",
+                "telephone": "(0355)7187063",
+                "detail": 1,
+                "uid": "efcc7140c5776fee36b06cd7"
+            },
+            {
+                "name": "故县村",
+                "location": { "lat": 36.36448, "lng": 113.044677 },
+                "address": "长治市潞州区",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "潞州区",
+                "detail": 1,
+                "uid": "46e86fdd41d92d6ed03ce3bc"
+            },
+            {
+                "name": "故县村",
+                "location": { "lat": 36.654485, "lng": 113.039998 },
+                "address": "山西省长治市襄垣县",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "襄垣县",
+                "detail": 1,
+                "uid": "39cef52a7df2ecc1eb12e42d"
+            },
+            {
+                "name": "故县村",
+                "location": { "lat": 36.322819, "lng": 112.782023 },
+                "address": "山西省长治市屯留区",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "屯留区",
+                "detail": 1,
+                "uid": "2ac9b118bb36b7b00b1cc744"
+            },
+            {
+                "name": "西故县村",
+                "location": { "lat": 36.072652, "lng": 113.135842 },
+                "address": "长治市上党区",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "上党区",
+                "detail": 1,
+                "uid": "c5ddcc0818b42dc7d913188c"
+            },
+            {
+                "name": "故县派出所",
+                "location": { "lat": 36.370978, "lng": 113.054876 },
+                "address": "激情百度KTV东50米(文明路西)",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "潞州区",
+                "telephone": "(0355)5087253",
+                "detail": 1,
+                "uid": "8d96925cd714d244c0f1cf85"
+            },
+            {
+                "name": "故县街道",
+                "location": { "lat": 36.369976, "lng": 113.054892 },
+                "address": "长治市潞州区市场路",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "潞州区",
+                "detail": 1,
+                "uid": "2e1a7e0edeba28373a13fd25"
+            },
+            {
+                "name": "故县街道办事处",
+                "location": { "lat": 36.370057, "lng": 113.054815 },
+                "address": "长治市潞州区故县北市街",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "潞州区",
+                "detail": 1,
+                "uid": "e74eccd9c3f198a216a1905e"
+            },
+            {
+                "name": "故县汽车站",
+                "location": { "lat": 36.368951, "lng": 113.050535 },
+                "address": "山西省长治市潞州区长钢西街87号",
+                "province": "山西省",
+                "city": "长治市",
+                "area": "潞州区",
+                "detail": 1,
+                "uid": "606ab0d0d9e9f12b0f3dda85"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "灵宝",
+            "location": { "lat": 34.523144, "lng": 110.900406 },
+            "uid": "62e42a2ffe531d422811d1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "鄠邑",
+            "location": { "lat": 34.11502, "lng": 108.611424 },
+            "uid": "9a32e51295be8a4e2db17e31"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华州",
+            "location": { "lat": 34.518731, "lng": 109.778476 },
+            "uid": "b66cf1e98714679d55bfff37"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "嵩县",
+            "location": { "lat": 34.140722, "lng": 112.092412 },
+            "uid": "62ed05a521f094a72ce67bef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "新安",
+            "location": { "lat": 34.734384, "lng": 112.140606 },
+            "uid": "4a4c842be5f1bd4cf603b8e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "陕州",
+            "location": { "lat": 34.72676, "lng": 111.109829 },
+            "uid": "e0a1020e884d0b59b020a8e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "潼关",
+            "location": { "lat": 34.550326, "lng": 110.252512 },
+            "uid": "40c2934b3252e3a58a36eeef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华州",
+            "location": { "lat": 34.518731, "lng": 109.778476 },
+            "uid": "b66cf1e98714679d55bfff37"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "天水",
+            "location": { "lat": 34.587412, "lng": 105.731421 },
+            "uid": "526541dd36beb45381288ae7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "礼县",
+            "location": { "lat": 34.194686, "lng": 105.183589 },
+            "uid": "47f42f2e6c3b0e5e08ccdde8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西和",
+            "location": { "lat": 34.016787, "lng": 105.307609 },
+            "uid": "4dd25cc51003a249c51e51ea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成县",
+            "location": { "lat": 33.756635, "lng": 105.74848 },
+            "uid": "969fb43816104a0cb54f54e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "略阳",
+            "location": { "lat": 33.333194, "lng": 106.163542 },
+            "uid": "4afc1deb13cc58556c4760ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "广元",
+            "location": { "lat": 32.441617, "lng": 105.850419 },
+            "uid": "b9d07c31abceb3b596ca07e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "剑阁",
+            "location": { "lat": 32.293478, "lng": 105.531575 },
+            "uid": "3e2b636a35284eacd618b7ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "德阳",
+            "location": { "lat": 31.133116, "lng": 104.404417 },
+            "uid": "4cc3eecb35fbae831d5800e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "崇州",
+            "location": { "lat": 30.636596, "lng": 103.679431 },
+            "uid": "40399b1ed240c064210262e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蓬溪",
+            "location": { "lat": 30.763752, "lng": 105.713446 },
+            "uid": "6d7cfffca9cfa740ca09f0ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "崇州",
+            "location": { "lat": 30.636596, "lng": 103.679431 },
+            "uid": "40399b1ed240c064210262e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "绵阳",
+            "location": { "lat": 31.473663, "lng": 104.68556 },
+            "uid": "a5dd293e881030859e95dee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "中江",
+            "location": { "lat": 31.038954, "lng": 104.685533 },
+            "uid": "a885fc00209a4f4bb05c6ae4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "三台",
+            "location": { "lat": 31.101586, "lng": 105.101493 },
+            "uid": "cd4bb675b905a6d4770269e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "射洪",
+            "location": { "lat": 30.877139, "lng": 105.394511 },
+            "uid": "8391702dc8e2ee51fe0eb0ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "广汉",
+            "location": { "lat": 30.982415, "lng": 104.288419 },
+            "uid": "91f04b5eb209994de6e965e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "绵阳",
+            "location": { "lat": 31.473663, "lng": 104.68556 },
+            "uid": "a5dd293e881030859e95dee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "三台",
+            "location": { "lat": 31.101586, "lng": 105.101493 },
+            "uid": "cd4bb675b905a6d4770269e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "盐亭",
+            "location": { "lat": 31.214319, "lng": 105.3955 },
+            "uid": "b9d67c31abceb3b596ca07e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "阆中",
+            "location": { "lat": 31.564074, "lng": 106.011566 },
+            "uid": "39fbd0d57101d6ad38e4a6e8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "三台",
+            "location": { "lat": 31.101586, "lng": 105.101493 },
+            "uid": "cd4bb675b905a6d4770269e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "阆中",
+            "location": { "lat": 31.564074, "lng": 106.011566 },
+            "uid": "39fbd0d57101d6ad38e4a6e8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乐山",
+            "location": { "lat": 29.55794, "lng": 103.77254 },
+            "uid": "cd1ca60f5e1613f0b2077de6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜宾",
+            "location": { "lat": 28.758007, "lng": 104.649403 },
+            "uid": "27c93119c5f0d35716a190e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "重庆",
+            "location": { "lat": 29.568996, "lng": 106.558437 },
+            "uid": "d346fa2b94fb88054bcc4ae6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "忠县",
+            "location": { "lat": 30.305268, "lng": 108.04454 },
+            "uid": "6b2fceb291be753e07026fea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "云阳",
+            "location": { "lat": 30.93661, "lng": 108.703447 },
+            "uid": "cde131e17526799f49fd3fe8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "奉节",
+            "location": { "lat": 31.024602, "lng": 109.470474 },
+            "uid": "eacef98b35dc0df92fb96dea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巫山",
+            "location": { "lat": 31.080519, "lng": 109.885545 },
+            "uid": "5e04ecca210ef240744ff1ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜昌",
+            "location": { "lat": 30.697446, "lng": 111.292552 },
+            "uid": "cda0ba05ba85655ecae33ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "松滋",
+            "location": { "lat": 30.175343, "lng": 111.773576 },
+            "uid": "607e2011290410696f3e1bed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "江陵",
+            "location": { "lat": 30.048043, "lng": 112.43145 },
+            "uid": "c53250076cf31073276e98e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "公安",
+            "location": {
+                "lat": 30.064402,
+                "lng": 112.2365
+            },
+            "uid": "40c0934b3252e3a58a36eeed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "石首",
+            "location": { "lat": 29.727035, "lng": 112.431424 },
+            "uid": "7a97322b4abe1ab9f42310ed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "岳阳",
+            "location": { "lat": 29.363177, "lng": 113.135488 },
+            "uid": "4a39640b740e4c06213bf2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "湘阴",
+            "location": { "lat": 28.676677, "lng": 112.889523 },
+            "uid": "59d4bad4f7fadd4ea5da39eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "浏阳",
+            "location": { "lat": 28.169831, "lng": 113.6494 },
+            "uid": "cded31e17526799f49fd3fec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "湘潭",
+            "location": { "lat": 27.835703, "lng": 112.950464 },
+            "uid": "d7cf3a6e772eccf022f017e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "株洲",
+            "location": { "lat": 27.833568, "lng": 113.140474 },
+            "uid": "95f88f4d9f3c50008c55ece7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "衡阳",
+            "location": { "lat": 26.899575, "lng": 112.578449 },
+            "uid": "27f50140b45bfb1ff90cade7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "衡山",
+                "location": { "lat": 27.235996, "lng": 112.875563 },
+                "address": "湖南省衡阳市",
+                "province": "湖南省",
+                "city": "衡山县",
+                "area": "衡山县",
+                "detail": 0,
+                "uid": "6f1259abad2e8a57f21937eb"
+            },
+            {
+                "name": "衡山西站",
+                "location": { "lat": 27.253672, "lng": 112.796274 },
+                "address": "衡阳市衡山县开云镇",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "detail": 1,
+                "uid": "839927515d1489be343a7148"
+            },
+            {
+                "name": "衡山路",
+                "location": { "lat": 27.245631, "lng": 112.788986 },
+                "address": "湖南省衡阳市",
+                "province": "湖南省",
+                "city": "衡山县",
+                "area": "",
+                "detail": 0,
+                "uid": "decc2a3c56e2c864f5eafc46"
+            },
+            {
+                "name": "衡山大桥",
+                "location": { "lat": 27.233176, "lng": 112.887889 },
+                "address": "湖南省衡阳市",
+                "province": "湖南省",
+                "city": "衡山县",
+                "area": "",
+                "detail": 0,
+                "uid": "982da0fea9cfa740cb09f05f"
+            },
+            {
+                "name": "衡山汽车站",
+                "location": { "lat": 27.252333, "lng": 112.860158 },
+                "address": "人民西路222号",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "street_id": "4eb3b533f788db7543024522",
+                "detail": 1,
+                "uid": "4eb3b533f788db7543024522"
+            },
+            {
+                "name": "衡山县新桥镇",
+                "location": { "lat": 27.375266, "lng": 112.536111 },
+                "address": "湖南省衡阳市衡山县新桥镇政府(034县道西)",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "detail": 1,
+                "uid": "a3f21eee8183aa442fb17edf"
+            },
+            {
+                "name": "衡山大桥/解放北路(路口)",
+                "location": { "lat": 27.240776, "lng": 112.881307 },
+                "address": "衡阳市衡山县解放北路",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "street_id": "07783af59b5cd3e4b320a896",
+                "detail": 1,
+                "uid": "07783af59b5cd3e4b320a896"
+            },
+            {
+                "name": "衡山县政府",
+                "location": { "lat": 27.235902, "lng": 112.874879 },
+                "address": "衡阳市衡山县交通街4栋101",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "street_id": "0dc3d82d6a55936c75e5b623",
+                "telephone": "(0734)5812451",
+                "detail": 1,
+                "uid": "0dc3d82d6a55936c75e5b623"
+            },
+            {
+                "name": "神龙盈佳大酒店",
+                "location": { "lat": 27.254787, "lng": 112.868447 },
+                "address": "湖南省衡阳市衡山县衡山大道818号",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "telephone": "(0734)2819999",
+                "detail": 1,
+                "uid": "3731e85a3f41bf6f15c90561"
+            },
+            {
+                "name": "衡山县人民医院",
+                "location": { "lat": 27.238726, "lng": 112.876006 },
+                "address": "衡阳市衡山县开云镇白石巷69号",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡山县",
+                "street_id": "b292b3aa5b9f9c56be484222",
+                "detail": 1,
+                "uid": "b292b3aa5b9f9c56be484222"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "耒阳",
+            "location": { "lat": 26.428066, "lng": 112.866599 },
+            "uid": "2feb091b1cd504ab471a32eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "衡阳",
+            "location": { "lat": 26.899575, "lng": 112.578449 },
+            "uid": "27f50140b45bfb1ff90cade7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "岳阳",
+            "location": { "lat": 29.363177, "lng": 113.135488 },
+            "uid": "4a39640b740e4c06213bf2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "耒阳",
+            "location": { "lat": 26.428066, "lng": 112.866599 },
+            "uid": "2feb091b1cd504ab471a32eb"
+        }]
+    }
+]

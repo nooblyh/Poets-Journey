@@ -1,1 +1,165 @@
-[{"status": 0, "message": "ok", "results": [{"name": "Î÷°²ÊĞ", "location": {"lat": 34.347269, "lng": 108.946465}, "uid": "6004101013367be6b817e7e7"}]}, {"status": 0, "message": "ok", "results": [{"name": "¸»ÏØ", "location": {"lat": 35.993367, "lng": 109.386599}, "uid": "4606a2382e18d696f8f0cbe9"}]}, {"status": 0, "message": "ok", "results": [{"name": "Î÷°²ÊĞ", "location": {"lat": 34.347269, "lng": 108.946465}, "uid": "6004101013367be6b817e7e7"}]}, {"status": 0, "message": "ok", "results": [{"name": "·ïÏèÏØ", "location": {"lat": 34.527616, "lng": 107.40738}, "uid": "4a41842be5f1bd4cf603b8ec"}]}, {"status": 0, "message": "ok", "results": [{"name": "±òÖİÊĞ", "location": {"lat": 35.049611, "lng": 108.084568}, "uid": "672803f21eab69ac1b94c6e9"}]}, {"status": 0, "message": "ok", "results": [{"name": "ÌÆÓñ»ª¹¬·ç¾°ÃûÊ¤Çø", "location": {"lat": 35.330142, "lng": 108.920788}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÓ¡Ì¨ÇøÓñ»ª¹«Â·¸½½ü", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "ÒË¾ıÏØ", "street_id": "d6ee8724f46480e3a8f0cdec", "telephone": "(0919)7586001", "detail": 1, "uid": "d6ee8724f46480e3a8f0cdec"}, {"name": "Óñ»ª¹¬-Í£³µ³¡", "location": {"lat": 35.349406, "lng": 108.957594}, "address": "305Ê¡µÀ", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "ÒË¾ıÏØ", "detail": 1, "uid": "c765b02b4cb8d8e9764ff1b3"}, {"name": "Óñ»ª¹¬·ç¾°ÇøÊÛÆ±´¦", "location": {"lat": 35.332178, "lng": 108.908018}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÓ¡Ì¨Çø½ğËø¹ØÕòÓñ»ª¹¬·ç¾°Çø¸½½ü", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "Ó¡Ì¨Çø", "detail": 1, "uid": "b577b30832d56aa64afd3f13"}, {"name": "Óñ»ª¹¬¾Æµê", "location": {"lat": 35.334186, "lng": 108.911124}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÓ¡Ì¨ÇøÓñ»ª¹¬¾°ÇøÓñ»ª¹¬¾Æµê", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "Ó¡Ì¨Çø", "telephone": "(0919)7762288", "detail": 1, "uid": "06db3d07f430b28830169bea"}, {"name": "Óñ»ª¹¬·ç¾°Çø-Î÷ÃÅ", "location": {"lat": 35.332032, "lng": 108.907818}, "address": "Óñ»ª¹¬·ç¾°ÇøÎ÷", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "Ó¡Ì¨Çø", "detail": 1, "uid": "170cf7760f4be6b26fc02c18"}, {"name": "Óñ»ª¹¬·ç¾°Çø-ÄÏÃÅ", "location": {"lat": 35.338803, "lng": 108.938966}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÒË¾ıÏØÓñ»ª¹¬·ç¾°ÇøÄÏ", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "ÒË¾ıÏØ", "detail": 1, "uid": "d61797c41f85415588fc066b"}, {"name": "Óñ»ª¹¬¹ÜÀí¾Ö", "location": {"lat": 35.341038, "lng": 108.937489}, "address": "Óñ»ª¹¬¾°ÇøÄÚ", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "ÒË¾ıÏØ", "detail": 1, "uid": "18c158e14e5241c52b201aa9"}, {"name": "Í­´¨ÊĞÓñ»ª¹¬¹ÜÀí¾Ö", "location": {"lat": 34.903008, "lng": 108.951567}, "address": "ÕıÑôÂ·9", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "Ò«ÖİÇø", "street_id": "ffd6d40395cb9ff117b54b66", "detail": 1, "uid": "ffd6d40395cb9ff117b54b66"}, {"name": "Óñ»ª¹¬Á¢½»", "location": {"lat": 35.362985, "lng": 108.98178}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÒË¾ıÏØ", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "ÒË¾ıÏØ", "detail": 0, "uid": "037fcf29e5f1bd4cf603b8b4"}, {"name": "Óñ»ª¹¬¾Æµê-×ÀÇòÊÒ", "location": {"lat": 35.334185, "lng": 108.911124}, "address": "ÉÂÎ÷Ê¡Í­´¨ÊĞÓ¡Ì¨ÇøÓñ»ª¹¬¾Æµê(Óñ»ª¹¬·ç¾°ÇøÎ÷)", "province": "ÉÂÎ÷Ê¡", "city": "Í­´¨ÊĞ", "area": "Ó¡Ì¨Çø", "telephone": "(0919)7762288", "detail": 1, "uid": "fd66dad660a193ba5bbbbc9c"}]}, {"status": 0, "message": "ok", "results": [{"name": "¸»ÏØ", "location": {"lat": 35.993367, "lng": 109.386599}, "uid": "4606a2382e18d696f8f0cbe9"}]}]
+[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "è¥¿å®‰",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "å¯Œå¿",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "è¥¿å®‰",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "å‡¤ç¿”",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "å½¬å·",
+            "location": { "lat": 35.049611, "lng": 108.084568 },
+            "uid": "672803f21eab69ac1b94c6e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "ç‰åå®«",
+                "location": { "lat": 35.330142, "lng": 108.920788 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å°å°åŒºç‰åå…¬è·¯é™„è¿‘",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å®œå›å¿",
+                "street_id": "d6ee8724f46480e3a8f0cdec",
+                "telephone": "(0919)7586001",
+                "detail": 1,
+                "uid": "d6ee8724f46480e3a8f0cdec"
+            },
+            {
+                "name": "ç‰åå®«-åœè½¦åœº",
+                "location": { "lat": 35.349406, "lng": 108.957594 },
+                "address": "305çœé“",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å®œå›å¿",
+                "detail": 1,
+                "uid": "c765b02b4cb8d8e9764ff1b3"
+            },
+            {
+                "name": "ç‰åå®«é£æ™¯åŒºå”®ç¥¨å¤„",
+                "location": { "lat": 35.332178, "lng": 108.908018 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å°å°åŒºé‡‘é”å…³é•‡ç‰åå®«é£æ™¯åŒºé™„è¿‘",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å°å°åŒº",
+                "detail": 1,
+                "uid": "b577b30832d56aa64afd3f13"
+            },
+            {
+                "name": "ç‰åå®«é…’åº—",
+                "location": { "lat": 35.334186, "lng": 108.911124 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å°å°åŒºç‰åå®«æ™¯åŒºç‰åå®«é…’åº—",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å°å°åŒº",
+                "telephone": "(0919)7762288",
+                "detail": 1,
+                "uid": "06db3d07f430b28830169bea"
+            },
+            {
+                "name": "ç‰åå®«é£æ™¯åŒº-è¥¿é—¨",
+                "location": { "lat": 35.332032, "lng": 108.907818 },
+                "address": "ç‰åå®«é£æ™¯åŒºè¥¿",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å°å°åŒº",
+                "detail": 1,
+                "uid": "170cf7760f4be6b26fc02c18"
+            },
+            {
+                "name": "ç‰åå®«é£æ™¯åŒº-å—é—¨",
+                "location": { "lat": 35.338803, "lng": 108.938966 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å®œå›å¿ç‰åå®«é£æ™¯åŒºå—",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å®œå›å¿",
+                "detail": 1,
+                "uid": "d61797c41f85415588fc066b"
+            },
+            {
+                "name": "ç‰åå®«ç®¡ç†å±€",
+                "location": { "lat": 35.341038, "lng": 108.937489 },
+                "address": "ç‰åå®«æ™¯åŒºå†…",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å®œå›å¿",
+                "detail": 1,
+                "uid": "18c158e14e5241c52b201aa9"
+            },
+            {
+                "name": "é“œå·å¸‚ç‰åå®«ç®¡ç†å±€",
+                "location": { "lat": 34.903008, "lng": 108.951567 },
+                "address": "æ­£é˜³è·¯9",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "è€€å·åŒº",
+                "street_id": "ffd6d40395cb9ff117b54b66",
+                "detail": 1,
+                "uid": "ffd6d40395cb9ff117b54b66"
+            },
+            {
+                "name": "ç‰åå®«ç«‹äº¤",
+                "location": { "lat": 35.362985, "lng": 108.98178 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å®œå›å¿",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å®œå›å¿",
+                "detail": 0,
+                "uid": "037fcf29e5f1bd4cf603b8b4"
+            },
+            {
+                "name": "ç‰åå®«é…’åº—-æ¡Œçƒå®¤",
+                "location": { "lat": 35.334185, "lng": 108.911124 },
+                "address": "é™•è¥¿çœé“œå·å¸‚å°å°åŒºç‰åå®«é…’åº—(ç‰åå®«é£æ™¯åŒºè¥¿)",
+                "province": "é™•è¥¿çœ",
+                "city": "é“œå·å¸‚",
+                "area": "å°å°åŒº",
+                "telephone": "(0919)7762288",
+                "detail": 1,
+                "uid": "fd66dad660a193ba5bbbbc9c"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "å¯Œå¿",
+            "location": { "lat": 35.993367, "lng": 109.386599 },
+            "uid": "4606a2382e18d696f8f0cbe9"
+        }]
+    }
+]
