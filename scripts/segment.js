@@ -265,15 +265,37 @@ var addOption = function(data, allOption) {
 }
 
 var allOption = [];
-for (let stage = 1; stage < 28; stage++) {
+for (let stage = 1; stage < 30; stage++) {
     $.ajaxSettings.async = false;
     //input coordsname
     $.getJSON('coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
-
         addOption(data, allOption);
     });
-
 }
+tmp = [];
+$.ajaxSettings.async = false;
+$.getJSON('stages/' + poetName + 'Stage.txt', function(data) {
+    tmp.push(data);
+});
+
+function string2Array(stringObj) {
+    stringObj = stringObj.replace(/\[([\w, ]*)\]/, "$1");
+    if (stringObj.indexOf("[") == 0) {
+        stringObj = stringObj.substring(0, stringObj.length - 1);
+    }
+    var arr = stringObj.split(",");
+    var newArray = []; //new Array();  
+    for (var i = 0; i < arr.length; i++) {
+        var arrOne = arr[i].substring(2, arr[i].length - 1);
+        newArray.push(arrOne);
+    }
+    // console.log(newArray);  
+    return newArray;
+};
+
+var httpobj = $.ajax({ url: 'stages/' + poetName + 'Stage.txt', async: false });
+baseOption["timeline"]["data"] = string2Array(httpobj.responseText);
+
 option = {
     baseOption: baseOption,
     options: allOption
