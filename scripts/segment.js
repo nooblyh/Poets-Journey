@@ -274,7 +274,6 @@ for (let stage = 1; stage < 30; stage++) {
     //input coordsname
 
     $.getJSON('../coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
-        alert(data);
         addOption(data, allOption);
     });
 }
