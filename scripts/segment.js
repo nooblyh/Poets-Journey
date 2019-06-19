@@ -268,13 +268,13 @@ var allOption = [];
 for (let stage = 1; stage < 30; stage++) {
     $.ajaxSettings.async = false;
     //input coordsname
-    $.getJSON('coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
+    $.getJSON('../coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
         addOption(data, allOption);
     });
 }
 tmp = [];
 $.ajaxSettings.async = false;
-$.getJSON('stages/' + poetName + 'Stage.txt', function(data) {
+$.getJSON('../stages/' + poetName + 'Stage.txt', function(data) {
     tmp.push(data);
 });
 
@@ -293,7 +293,7 @@ function string2Array(stringObj) {
     return newArray;
 };
 
-var httpobj = $.ajax({ url: 'stages/' + poetName + 'Stage.txt', async: false });
+var httpobj = $.ajax({ url: '../stages/' + poetName + 'Stage.txt', async: false });
 baseOption["timeline"]["data"] = string2Array(httpobj.responseText);
 
 option = {

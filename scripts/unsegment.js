@@ -103,7 +103,7 @@ var addOption = function(data, option) {
                 subtext: 'by lyh',
                 left: 'center',
                 textStyle: {
-                    color: '#fff'
+                    color: '#ffa022'
                 }
             },
             tooltip: {
@@ -229,7 +229,7 @@ var addOption = function(data, option) {
 
 var option = [];
 $.ajaxSettings.async = false;
-$.getJSON('coords/' + poetName + 'Coords/coord.json', function(data) {
+$.getJSON('../coords/' + poetName + 'Coords/coord.json', function(data) {
     addOption(data, option);
 });
 // 为echarts对象加载数据

@@ -1,8 +1,8 @@
-[{
+ï»¿ï»¿[{
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "¹®Òå",
+            "name": "å·©ä¹‰",
             "location": { "lat": 34.754098, "lng": 113.028428 },
             "uid": "0681a2b9c12e63bf8505bfe9"
         }]
@@ -11,7 +11,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "ÂåÑô",
+            "name": "æ´›é˜³",
             "location": { "lat": 34.624264, "lng": 112.459424 },
             "uid": "3e23636a35284eacd618b7e7"
         }]
@@ -20,7 +20,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "äðºÓ",
+            "name": "æ¼¯æ²³",
             "location": { "lat": 33.58771, "lng": 114.023419 },
             "uid": "751fd7e4fbe5fe527ec876e7"
         }]
@@ -29,7 +29,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "ÂåÑô",
+            "name": "æ´›é˜³",
             "location": { "lat": 34.624264, "lng": 112.459424 },
             "uid": "3e23636a35284eacd618b7e7"
         }]

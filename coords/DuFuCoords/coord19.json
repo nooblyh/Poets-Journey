@@ -1,1 +1,28 @@
-[{"status": 0, "message": "ok", "results": [{"name": "岳阳", "location": {"lat": 29.363177, "lng": 113.135488}, "uid": "4a39640b740e4c06213bf2e7"}]}, {"status": 0, "message": "ok", "results": [{"name": "长沙", "location": {"lat": 28.23489, "lng": 112.94547}, "uid": "e1ffc20644453215c356ace7"}]}, {"status": 0, "message": "ok", "results": [{"name": "耒阳", "location": {"lat": 26.428066, "lng": 112.866599}, "uid": "2feb091b1cd504ab471a32eb"}]}]
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "岳阳",
+            "location": { "lat": 29.363177, "lng": 113.135488 },
+            "uid": "4a39640b740e4c06213bf2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "耒阳",
+            "location": { "lat": 26.428066, "lng": 112.866599 },
+            "uid": "2feb091b1cd504ab471a32eb"
+        }]
+    }
+]
