@@ -16,120 +16,7 @@ var baseOption = {
     tooltip: {
         trigger: 'item'
     },
-    // 地图相关
-    bmap: {
-        center: [104.114129, 37.550339],
-        zoom: 5,
-        roam: true,
-        mapStyle: {
-            styleJson: [{
-                "featureType": "water",
-                "elementType": "all",
-                "stylers": {
 
-                }
-            }, {
-                "featureType": "land",
-                "elementType": "all",
-                "stylers": {
-
-                }
-            }, {
-                "featureType": "boundary",
-                "elementType": "all",
-                "stylers": {}
-            }, {
-                "featureType": "railway",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "highway",
-                "elementType": "geometry",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "highway",
-                "elementType": "geometry.fill",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "highway",
-                "elementType": "labels",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "arterial",
-                "elementType": "geometry",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "arterial",
-                "elementType": "geometry.fill",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "poi",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "green",
-                "elementType": "all",
-                "stylers": {
-                    "color": "#056197",
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "subway",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "manmade",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "local",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "arterial",
-                "elementType": "labels",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "boundary",
-                "elementType": "geometry.fill",
-                "stylers": {}
-            }, {
-                "featureType": "building",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }, {
-                "featureType": "label",
-                "elementType": "all",
-                "stylers": {
-                    "visibility": "off"
-                }
-            }]
-        }
-    },
     timeline: {
         // y: 0,
         axisType: 'category',
@@ -251,6 +138,122 @@ var addOption = function(data, allOption) {
 
     var oneOption = {
         // backgroundColor: '#404a59',
+        // 地图相关
+        bmap: {
+            center: [data[Math.floor(data.length / 2)]["results"][0]["location"]["lng"],
+                data[Math.floor(data.length / 2)]["results"][0]["location"]["lat"]
+            ],
+            zoom: 7,
+            roam: true,
+            mapStyle: {
+                styleJson: [{
+                    "featureType": "water",
+                    "elementType": "all",
+                    "stylers": {
+
+                    }
+                }, {
+                    "featureType": "land",
+                    "elementType": "all",
+                    "stylers": {
+
+                    }
+                }, {
+                    "featureType": "boundary",
+                    "elementType": "all",
+                    "stylers": {}
+                }, {
+                    "featureType": "railway",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "highway",
+                    "elementType": "geometry",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "highway",
+                    "elementType": "geometry.fill",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "highway",
+                    "elementType": "labels",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "arterial",
+                    "elementType": "geometry",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "arterial",
+                    "elementType": "geometry.fill",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "poi",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "green",
+                    "elementType": "all",
+                    "stylers": {
+                        "color": "#056197",
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "subway",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "manmade",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "local",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "arterial",
+                    "elementType": "labels",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "boundary",
+                    "elementType": "geometry.fill",
+                    "stylers": {}
+                }, {
+                    "featureType": "building",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }, {
+                    "featureType": "label",
+                    "elementType": "all",
+                    "stylers": {
+                        "visibility": "off"
+                    }
+                }]
+            }
+        },
         timeline: {
             playInterval: (data.length - 1) * 4000
         },
