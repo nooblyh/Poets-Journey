@@ -268,10 +268,13 @@ var addOption = function(data, allOption) {
 }
 
 var allOption = [];
+$.ajaxSettings.async = false;
 for (let stage = 1; stage < 30; stage++) {
-    $.ajaxSettings.async = false;
+
     //input coordsname
+
     $.getJSON('../coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
+        alert(data);
         addOption(data, allOption);
     });
 }
