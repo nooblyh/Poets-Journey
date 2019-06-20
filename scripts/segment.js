@@ -2,6 +2,24 @@ var strUrl = window.location.href;
 var arrUrl = strUrl.split("/");
 var strPage = arrUrl[arrUrl.length - 1];
 var poetName = strPage.split(".")[0];
+var img = [{
+    "name": "LiBai",
+    "img": "image://https://08.imgmini.eastday.com/mobile/20180728/20180728003657_6ab9829ca3b0968db7f8658ba3c6c45d_1.jpeg"
+}, {
+    "name": "DuFu",
+    "img": "image://https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3579140198,216816410&fm=26&gp=0.jpg"
+}, {
+    "name": "MengHaoRan",
+    "img": "image://https://08.imgmini.eastday.com/mobile/20180728/20180728003657_6ab9829ca3b0968db7f8658ba3c6c45d_1.jpeg"
+}, {
+    "name": "WangWei",
+    "img": "image://https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3470644387,3551881596&fm=26&gp=0.jpg"
+}]
+var imgpoet = null;
+for (i = 0; i < 4; i++) {
+    if (img[i]["name"] == poetName)
+        imgpoet = img[i]["img"];
+}
 var baseOption = {
     animation: false,
     title: {
@@ -47,13 +65,14 @@ var addOption = function(data, allOption) {
         type: 'scatter',
         coordinateSystem: 'bmap',
         zlevel: 2,
-        color: color[0],
+        color: '#a6c8a1',
         tooltip: {
             formatter: '{b}'
         },
         label: {
             normal: {
                 show: true,
+                fontSize: 26,
                 position: 'right',
                 formatter: '{b}'
             }
@@ -110,20 +129,20 @@ var addOption = function(data, allOption) {
             polyline: false,
             zlevel: 2,
             symbol: ['none', 'arrow'],
-            symbolSize: 10,
+            symbolSize: 18,
             effect: {
                 loop: false,
                 show: true,
                 delay: (i - 1) * 4000,
                 period: 4,
                 trailLength: 0,
-                symbol: 'image://https://08.imgmini.eastday.com/mobile/20180728/20180728003657_6ab9829ca3b0968db7f8658ba3c6c45d_1.jpeg',
-                symbolSize: 15
+                symbol: imgpoet,
+                symbolSize: 40
             },
             lineStyle: {
                 normal: {
                     color: color[0],
-                    width: 1,
+                    width: 3,
                     opacity: 0.6,
                     curveness: 0.2
                 }
@@ -156,7 +175,7 @@ var addOption = function(data, allOption) {
                     "featureType": "land",
                     "elementType": "all",
                     "stylers": {
-
+                        "color": "#FFEEDD"
                     }
                 }, {
                     "featureType": "boundary",

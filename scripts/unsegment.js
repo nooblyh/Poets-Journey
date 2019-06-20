@@ -124,7 +124,7 @@ var addOption = function(data, option) {
                         "featureType": "land",
                         "elementType": "all",
                         "stylers": {
-
+                            "color": "#FFEEDD"
                         }
                     }, {
                         "featureType": "boundary",
