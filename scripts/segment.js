@@ -1,7 +1,9 @@
+//获取诗人名字
 var strUrl = window.location.href;
 var arrUrl = strUrl.split("/");
 var strPage = arrUrl[arrUrl.length - 1];
-var poetName = strPage.split(".")[0];
+var poetName = strPage.split(".")[0];   
+
 var baseOption = {
     animation: false,
     title: {
@@ -153,16 +155,16 @@ var myChart = echarts.init(document.getElementById('main'));
 // 传入coordX.json的字符串和allOption数组，根据字符串创建option，push到allOption中
 var addOption = function(data, allOption) {
     var myseries = [];
-    var color = ['#a6c84c', '#ffa022', '#46bee9'];
+    var color = ['#a6c84c', '#ffa022', '#46bee9'];   //设置路线和人名颜色
 
 
     myseries.push({
         type: 'scatter',
-        coordinateSystem: 'bmap',
-        zlevel: 2,
-        color: color[0],
+        coordinateSystem: 'bmap',   //采用百度地图坐标系
+        zlevel: 2,     //图层
+        color: color[0],    
         tooltip: {
-            formatter: '{b}'
+            formatter: '{b}'    //b代表data里的name
         },
         label: {
             normal: {
@@ -179,11 +181,11 @@ var addOption = function(data, allOption) {
         })
     });
 
-
-    for (let i = 1; i < data.length; i++) {
-        var fromItem = data[i - 1]
+    //画线
+    for (let i = 1; i < data.length; i++) {      
+        var fromItem = data[i - 1]   //
         var toItem = data[i];
-        var res = [];
+        var res = [];       //
         var fromCoord = [fromItem["results"][0]["location"]["lng"], fromItem["results"][0]["location"]["lat"]];
         var toCoord = [toItem["results"][0]["location"]["lng"], toItem["results"][0]["location"]["lat"]];
         if (fromCoord && toCoord) {
@@ -199,15 +201,18 @@ var addOption = function(data, allOption) {
             coordinateSystem: 'bmap',
             polyline: false,
             zlevel: 1,
+
+            //核心代码
             effect: {
                 loop: false,
                 show: true,
-                delay: (i - 1) * 4000,
+                delay: (i - 1) * 4000,   
                 period: 4,
                 trailLength: 0.7,
-                color: '#fff',
+                color: color[2],
                 symbolSize: 3
             },
+
             lineStyle: {
                 normal: {
                     color: color[0],
@@ -252,7 +257,7 @@ var addOption = function(data, allOption) {
     var oneOption = {
         // backgroundColor: '#404a59',
         timeline: {
-            playInterval: (data.length - 1) * 4000
+            playInterval: (data.length - 1) * 4000   //设置一个年龄段的呈现时间（点越多时间越长）
         },
 
         series: myseries
@@ -265,7 +270,7 @@ var addOption = function(data, allOption) {
 }
 
 var allOption = [];
-for (let stage = 1; stage < 30; stage++) {
+for (let stage = 1; stage < 30; stage++) {    //时间段
     $.ajaxSettings.async = false;
     //input coordsname
     $.getJSON('../coords/' + poetName + 'Coords/coord' + stage + '.json', function(data) {
@@ -278,7 +283,7 @@ $.getJSON('../stages/' + poetName + 'Stage.txt', function(data) {
     tmp.push(data);
 });
 
-function string2Array(stringObj) {
+function string2Array(stringObj) {   //年龄段字符串转为列表
     stringObj = stringObj.replace(/\[([\w, ]*)\]/, "$1");
     if (stringObj.indexOf("[") == 0) {
         stringObj = stringObj.substring(0, stringObj.length - 1);
@@ -303,12 +308,17 @@ option = {
 
 myChart.setOption(option);
 
+
 //时间轴变化时的逻辑
 myChart.on('timelineChanged', function() {
     //保证重新加载时当前页不变
+    
     x = myChart.getOption().timeline[0].currentIndex;
     baseOption["timeline"]["currentIndex"] = x;
     //清空option，重新加载
     myChart.clear();
     myChart.setOption(option);
 });
+
+
+
