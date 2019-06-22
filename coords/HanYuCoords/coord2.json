@@ -1,0 +1,46 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宣城",
+            "location": { "lat": 30.946601, "lng": 118.765537 },
+            "uid": "295020dafee6635996f08ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "永济",
+            "location": { "lat": 34.87283, "lng": 110.454577 },
+            "uid": "3ad6530fb66e3574c9c3dbef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宣城",
+            "location": { "lat": 30.946601, "lng": 118.765537 },
+            "uid": "295020dafee6635996f08ce7"
+        }]
+    }
+]

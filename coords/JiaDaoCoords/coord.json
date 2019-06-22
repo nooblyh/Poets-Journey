@@ -1,0 +1,172 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "涿州",
+            "location": { "lat": 39.491065, "lng": 115.981617 },
+            "uid": "27c13119c5f0d35716a190ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "涿州",
+            "location": { "lat": 39.491065, "lng": 115.981617 },
+            "uid": "27c13119c5f0d35716a190ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "涿州",
+            "location": { "lat": 39.491065, "lng": 115.981617 },
+            "uid": "27c13119c5f0d35716a190ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "定州",
+            "location": { "lat": 38.522201, "lng": 114.996499 },
+            "uid": "b9100b2f4aed015a5fd4feeb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "咸阳",
+            "location": { "lat": 34.335476, "lng": 108.715421 },
+            "uid": "06047d40100f17f0601809e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "安康",
+            "location": { "lat": 32.690513, "lng": 109.035604 },
+            "uid": "43b3550a91be585132870ae7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "潢川",
+            "location": { "lat": 32.137531, "lng": 115.058473 },
+            "uid": "cdef31e17526799f49fd3fee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "杭州",
+            "location": { "lat": 30.253082, "lng": 120.21551 },
+            "uid": "99f429f6963d1f271fe999e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "遂宁",
+            "location": { "lat": 30.539097, "lng": 105.599424 },
+            "uid": "4cc2eecb35fbae831d5800e7"
+        }]
+    }
+]

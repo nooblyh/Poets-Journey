@@ -1,0 +1,64 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "寿县",
+            "location": { "lat": 32.561546, "lng": 116.805561 },
+            "uid": "dbf4cd488d1788696140a9ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄阳",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武威",
+            "location": { "lat": 37.934378, "lng": 102.644556 },
+            "uid": "9698b43816104a0cb54f54e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "张掖",
+            "location": { "lat": 38.932065, "lng": 100.456409 },
+            "uid": "3e0a9a6af13d905e72455be6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蒙古",
+            "location": { "lat": 47.888782, "lng": 107.035784 },
+            "uid": "3e0a9a6af13d905e72455be6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乌兰巴托北",
+            "location": { "lat": 47.963776, "lng": 106.905458 },
+            "uid": "cb88f408733629fe92114c6f"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    }
+]

@@ -1,0 +1,46 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "周至",
+            "location": { "lat": 34.169385, "lng": 108.228423 },
+            "uid": "d0f743bfc4b2b3b83f9a5eeb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "扶风",
+            "location": { "lat": 34.381464, "lng": 107.906452 },
+            "uid": "91fa4b5eb209994de6e965ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "周至",
+            "location": { "lat": 34.169385, "lng": 108.228423 },
+            "uid": "d0f743bfc4b2b3b83f9a5eeb"
+        }]
+    }
+]

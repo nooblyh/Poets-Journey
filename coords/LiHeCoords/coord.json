@@ -1,0 +1,118 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜阳",
+            "location": { "lat": 34.541048, "lng": 112.179467 },
+            "uid": "70085baeefe223dd0b1cc7ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜阳",
+            "location": { "lat": 34.541048, "lng": 112.179467 },
+            "uid": "70085baeefe223dd0b1cc7ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜阳",
+            "location": { "lat": 34.541048, "lng": 112.179467 },
+            "uid": "70085baeefe223dd0b1cc7ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "嵩县",
+            "location": { "lat": 34.140722, "lng": 112.092412 },
+            "uid": "62ed05a521f094a72ce67bef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "洛阳",
+            "location": { "lat": 34.624264, "lng": 112.459424 },
+            "uid": "3e23636a35284eacd618b7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "灵宝",
+            "location": { "lat": 34.523144, "lng": 110.900406 },
+            "uid": "62e42a2ffe531d422811d1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华阴",
+            "location": { "lat": 34.571801, "lng": 110.098605 },
+            "uid": "59143023ffd171b4e50738e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    }
+]

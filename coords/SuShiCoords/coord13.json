@@ -1,0 +1,46 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "彭山",
+            "location": { "lat": 30.198854, "lng": 103.879555 },
+            "uid": "d503b2fea993829688b988e5"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乐山",
+            "location": { "lat": 29.55794, "lng": 103.77254 },
+            "uid": "cd1ca60f5e1613f0b2077de6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜宾",
+            "location": { "lat": 28.758007, "lng": 104.649403 },
+            "uid": "27c93119c5f0d35716a190e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    }
+]

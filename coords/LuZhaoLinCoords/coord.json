@@ -1,0 +1,262 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "涿州",
+            "location": { "lat": 39.491065, "lng": 115.981617 },
+            "uid": "27c13119c5f0d35716a190ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "扬州",
+            "location": { "lat": 32.400676, "lng": 119.419423 },
+            "uid": "9e133d19c0cfce470f0a70e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "魏县",
+            "location": { "lat": 36.366156, "lng": 114.945448 },
+            "uid": "aefe39f3e73da856eedfcaee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "寿县",
+            "location": { "lat": 32.561546, "lng": 116.805561 },
+            "uid": "dbf4cd488d1788696140a9ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄阳",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武威",
+            "location": { "lat": 37.934378, "lng": 102.644556 },
+            "uid": "9698b43816104a0cb54f54e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "张掖",
+            "location": { "lat": 38.932065, "lng": 100.456409 },
+            "uid": "3e0a9a6af13d905e72455be6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蒙古",
+            "location": { "lat": 47.888782, "lng": 107.035784 },
+            "uid": "3e0a9a6af13d905e72455be6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乌兰巴托北",
+            "location": { "lat": 47.963776, "lng": 106.905458 },
+            "uid": "cb88f408733629fe92114c6f"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "兖州",
+            "location": { "lat": 35.557953, "lng": 116.790119 },
+            "uid": "6e891cf468b039602bfc484e"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蓝田",
+            "location": { "lat": 34.15762, "lng": 109.329386 },
+            "uid": "e3fa659fc90588150c0e6bee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "三台",
+            "location": { "lat": 31.101586, "lng": 105.101493 },
+            "uid": "cd4bb675b905a6d4770269e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "剑阁",
+            "location": { "lat": 32.293478, "lng": 105.531575 },
+            "uid": "3e2b636a35284eacd618b7ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "广元",
+            "location": { "lat": 32.441617, "lng": 105.850419 },
+            "uid": "b9d07c31abceb3b596ca07e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "绵阳",
+            "location": { "lat": 31.473663, "lng": 104.68556 },
+            "uid": "a5dd293e881030859e95dee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "勉县",
+            "location": { "lat": 33.159804, "lng": 106.67943 },
+            "uid": "cde031e17526799f49fd3fe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宝鸡",
+            "location": { "lat": 34.368915, "lng": 107.244572 },
+            "uid": "c415c3e693fd1da9c72ba1e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "广元",
+            "location": { "lat": 32.441617, "lng": 105.850419 },
+            "uid": "b9d07c31abceb3b596ca07e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "中江",
+            "location": { "lat": 31.038954, "lng": 104.685533 },
+            "uid": "a885fc00209a4f4bb05c6ae4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "彭州",
+            "location": { "lat": 30.995564, "lng": 103.965559 },
+            "uid": "e4fc5a0658ee9582601c67e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "勉县",
+            "location": { "lat": 33.159804, "lng": 106.67943 },
+            "uid": "cde031e17526799f49fd3fe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    }
+]

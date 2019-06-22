@@ -15,11 +15,12 @@ var img = [{
     "name": "WangWei",
     "img": "image://https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3470644387,3551881596&fm=26&gp=0.jpg"
 }]
-var imgpoet = null;
+var imgpoet = img[0]["img"];
 for (i = 0; i < 4; i++) {
     if (img[i]["name"] == poetName)
         imgpoet = img[i]["img"];
 }
+
 var baseOption = {
     animation: false,
     title: {
@@ -288,7 +289,7 @@ var addOption = function(data, allOption) {
 
 var allOption = [];
 $.ajaxSettings.async = false;
-for (let stage = 1; stage < 30; stage++) {
+for (let stage = 1; stage < 60; stage++) {
 
     //input coordsname
 

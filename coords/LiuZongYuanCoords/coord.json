@@ -1,0 +1,145 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "灵宝",
+            "location": { "lat": 34.523144, "lng": 110.900406 },
+            "uid": "62e42a2ffe531d422811d1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武汉",
+            "location": { "lat": 30.598467, "lng": 114.311586 },
+            "uid": "6d77fffca9cfa740ca09f0e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "九江",
+            "location": { "lat": 29.71134, "lng": 116.007533 },
+            "uid": "2afff4088a3d3ac08bdb73e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "彬州",
+            "location": { "lat": 35.049611, "lng": 108.084568 },
+            "uid": "672803f21eab69ac1b94c6e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "蓝田",
+            "location": { "lat": 34.15762, "lng": 109.329386 },
+            "uid": "e3fa659fc90588150c0e6bee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "长沙",
+            "location": { "lat": 28.23489, "lng": 112.94547 },
+            "uid": "e1ffc20644453215c356ace7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "湖南",
+            "location": { "lat": 28.118269, "lng": 112.989604 },
+            "uid": "3959e82b0c19ca50a2d230e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "零陵",
+            "location": { "lat": 26.227682, "lng": 111.637501 },
+            "uid": "3d4e4b3e56e2c864f5eafcc6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "衡阳",
+            "location": { "lat": 26.899575, "lng": 112.578449 },
+            "uid": "27f50140b45bfb1ff90cade7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "汨罗",
+            "location": { "lat": 28.812455, "lng": 113.073496 },
+            "uid": "e8af76759f05a5aabfa822ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "湖南",
+            "location": { "lat": 28.118269, "lng": 112.989604 },
+            "uid": "3959e82b0c19ca50a2d230e6"
+        }]
+    }
+]
