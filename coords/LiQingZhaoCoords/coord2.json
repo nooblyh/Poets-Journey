@@ -2,45 +2,27 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "合肥",
-            "location": { "lat": 31.826578, "lng": 117.233441 },
-            "uid": "3bee271c54ffab581df74de6"
+            "name": "昌乐",
+            "location": { "lat": 36.712997, "lng": 118.836486 },
+            "uid": "91d58de7681fc6473904b1ec"
         }]
     },
     {
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "天长",
-            "location": { "lat": 32.673411, "lng": 119.011386 },
-            "uid": "21f6d322d139f925c92915eb"
+            "name": "莱州",
+            "location": { "lat": 37.182637, "lng": 119.948597 },
+            "uid": "d34efa2b94fb88054bcc4aee"
         }]
     },
     {
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "肇庆",
-            "location": { "lat": 23.052889, "lng": 112.471488 },
-            "uid": "f848490592b68e5dfea778e7"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "开封",
-            "location": { "lat": 34.802885, "lng": 114.314595 },
-            "uid": "a71bc211e1d36cf6ee74f8e7"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "巴林",
-            "location": { "lat": 43.976383, "lng": 119.386446 },
-            "uid": "ba7a3ff2fb50b53e210220e4"
+            "name": "淄川",
+            "location": { "lat": 36.649837, "lng": 117.973412 },
+            "uid": "c72227ec29ebc3955ebe86fc"
         }]
     },
     {
@@ -57,6 +39,17 @@
         "message": "ok",
         "results": [{
                 "name": "益都",
+                "location": { "lat": 36.703853, "lng": 118.477611 },
+                "address": "潍坊市青州市尧王山西路",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "2c5ca32ffc501d7a59bbbcff",
+                "detail": 1,
+                "uid": "2c5ca32ffc501d7a59bbbcff"
+            },
+            {
+                "name": "益都街道",
                 "location": { "lat": 36.703853, "lng": 118.477611 },
                 "address": "潍坊市青州市尧王山西路",
                 "province": "山东省",
@@ -155,45 +148,9 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "西安",
-            "location": { "lat": 34.347269, "lng": 108.946465 },
-            "uid": "6004101013367be6b817e7e7"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "开封",
-            "location": { "lat": 34.802885, "lng": 114.314595 },
-            "uid": "a71bc211e1d36cf6ee74f8e7"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "河北",
-            "location": { "lat": 38.0432, "lng": 114.536594 },
-            "uid": "6f1759abad2e8a57f21937e6"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "西安",
-            "location": { "lat": 34.347269, "lng": 108.946465 },
-            "uid": "6004101013367be6b817e7e7"
-        }]
-    },
-    {
-        "status": 0,
-        "message": "ok",
-        "results": [{
-            "name": "开封",
-            "location": { "lat": 34.802885, "lng": 114.314595 },
-            "uid": "a71bc211e1d36cf6ee74f8e7"
+            "name": "南京",
+            "location": { "lat": 32.064652, "lng": 118.802422 },
+            "uid": "73d80fbb9cf7cc6a1d1d11e7"
         }]
     }
 ]

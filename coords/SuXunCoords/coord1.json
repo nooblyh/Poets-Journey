@@ -1,0 +1,144 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "峨眉山",
+                "location": { "lat": 29.574322, "lng": 103.356274 },
+                "address": "四川省乐山市峨眉山市黄湾镇",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "fd13a3f231dbd9fbb0077daf",
+                "telephone": "4008196333",
+                "detail": 1,
+                "uid": "fd13a3f231dbd9fbb0077daf"
+            },
+            {
+                "name": "峨眉山旅游客运中心",
+                "location": { "lat": 29.572402, "lng": 103.45681 },
+                "address": "四川省乐山市峨眉山市景区路(近报国寺)",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "telephone": "(0833)5592464",
+                "detail": 1,
+                "uid": "d24e48eb2a6d6db5aeee7aaf"
+            },
+            {
+                "name": "峨眉山-金顶",
+                "location": { "lat": 29.526392, "lng": 103.34597 },
+                "address": "名山南路41号",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "d4034eb34d07e6f7c13644af",
+                "detail": 1,
+                "uid": "d4034eb34d07e6f7c13644af"
+            },
+            {
+                "name": "峨眉山大酒店",
+                "location": { "lat": 29.573226, "lng": 103.453352 },
+                "address": "乐山市峨眉山市峨眉山报国寺景区路二段322号",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "7f7430dcb47dfa692806ce7e",
+                "telephone": "(0833)5595166",
+                "detail": 1,
+                "uid": "7f7430dcb47dfa692806ce7e"
+            },
+            {
+                "name": "峨眉山站",
+                "location": { "lat": 29.582315, "lng": 103.473012 },
+                "address": "四川省乐山市峨眉山市秀湖大道",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "ee90c106424a9d14901fc9e9"
+            },
+            {
+                "name": "峨眉山红珠山宾馆",
+                "location": { "lat": 29.56988, "lng": 103.44945 },
+                "address": "四川省乐山市峨眉山市报国寺风景区旁",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "14076dee2b3d69ed03294f86",
+                "telephone": "(0833)5525888",
+                "detail": 1,
+                "uid": "14076dee2b3d69ed03294f86"
+            },
+            {
+                "name": "峨眉山温泉饭店",
+                "location": { "lat": 29.571297, "lng": 103.457766 },
+                "address": "乐山市峨眉山市名山南路报国寺风景区天下名山牌坊上行300米左侧",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "52d503e9a9c1c44574026904",
+                "telephone": "(0833)5590370,(0833)5593578",
+                "detail": 1,
+                "uid": "52d503e9a9c1c44574026904"
+            },
+            {
+                "name": "峨眉山花园城度假酒店",
+                "location": { "lat": 29.57936, "lng": 103.479225 },
+                "address": "四川省乐山市峨眉山市峨秀湖景区蓝光假日半岛151栋",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "telephone": "(0833)2212868,(0833)2212853",
+                "detail": 1,
+                "uid": "13c70b904350a7f5130daa96"
+            },
+            {
+                "name": "峨眉山景区-入口",
+                "location": { "lat": 29.581428, "lng": 103.412692 },
+                "address": "乐山市峨眉山市黄湾乡",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "e3f3d57aecd50da545e274fd"
+            },
+            {
+                "name": "峨眉山植物园",
+                "location": { "lat": 29.597757, "lng": 103.385926 },
+                "address": "名山路南段辅路",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "f60a15ed25279692bb17e7f6"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    }
+]

@@ -1,0 +1,693 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "峨眉山",
+                "location": { "lat": 29.574322, "lng": 103.356274 },
+                "address": "四川省乐山市峨眉山市黄湾镇",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "fd13a3f231dbd9fbb0077daf",
+                "telephone": "4008196333",
+                "detail": 1,
+                "uid": "fd13a3f231dbd9fbb0077daf"
+            },
+            {
+                "name": "峨眉山旅游客运中心",
+                "location": { "lat": 29.572402, "lng": 103.45681 },
+                "address": "四川省乐山市峨眉山市景区路(近报国寺)",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "telephone": "(0833)5592464",
+                "detail": 1,
+                "uid": "d24e48eb2a6d6db5aeee7aaf"
+            },
+            {
+                "name": "峨眉山-金顶",
+                "location": { "lat": 29.526392, "lng": 103.34597 },
+                "address": "名山南路41号",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "d4034eb34d07e6f7c13644af",
+                "detail": 1,
+                "uid": "d4034eb34d07e6f7c13644af"
+            },
+            {
+                "name": "峨眉山大酒店",
+                "location": { "lat": 29.573226, "lng": 103.453352 },
+                "address": "乐山市峨眉山市峨眉山报国寺景区路二段322号",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "7f7430dcb47dfa692806ce7e",
+                "telephone": "(0833)5595166",
+                "detail": 1,
+                "uid": "7f7430dcb47dfa692806ce7e"
+            },
+            {
+                "name": "峨眉山站",
+                "location": { "lat": 29.582315, "lng": 103.473012 },
+                "address": "四川省乐山市峨眉山市秀湖大道",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "ee90c106424a9d14901fc9e9"
+            },
+            {
+                "name": "峨眉山红珠山宾馆",
+                "location": { "lat": 29.56988, "lng": 103.44945 },
+                "address": "四川省乐山市峨眉山市报国寺风景区旁",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "14076dee2b3d69ed03294f86",
+                "telephone": "(0833)5525888",
+                "detail": 1,
+                "uid": "14076dee2b3d69ed03294f86"
+            },
+            {
+                "name": "峨眉山温泉饭店",
+                "location": { "lat": 29.571297, "lng": 103.457766 },
+                "address": "乐山市峨眉山市名山南路报国寺风景区天下名山牌坊上行300米左侧",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "street_id": "52d503e9a9c1c44574026904",
+                "telephone": "(0833)5590370,(0833)5593578",
+                "detail": 1,
+                "uid": "52d503e9a9c1c44574026904"
+            },
+            {
+                "name": "峨眉山花园城度假酒店",
+                "location": { "lat": 29.57936, "lng": 103.479225 },
+                "address": "四川省乐山市峨眉山市峨秀湖景区蓝光假日半岛151栋",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "telephone": "(0833)2212868,(0833)2212853",
+                "detail": 1,
+                "uid": "13c70b904350a7f5130daa96"
+            },
+            {
+                "name": "峨眉山景区-入口",
+                "location": { "lat": 29.581428, "lng": 103.412692 },
+                "address": "乐山市峨眉山市黄湾乡",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "e3f3d57aecd50da545e274fd"
+            },
+            {
+                "name": "峨眉山植物园",
+                "location": { "lat": 29.597757, "lng": 103.385926 },
+                "address": "名山路南段辅路",
+                "province": "四川省",
+                "city": "乐山市",
+                "area": "峨眉山市",
+                "detail": 1,
+                "uid": "f60a15ed25279692bb17e7f6"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乐山",
+            "location": { "lat": 29.55794, "lng": 103.77254 },
+            "uid": "cd1ca60f5e1613f0b2077de6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "奉节",
+            "location": { "lat": 31.024602, "lng": 109.470474 },
+            "uid": "eacef98b35dc0df92fb96dea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜昌",
+            "location": { "lat": 30.697446, "lng": 111.292552 },
+            "uid": "cda0ba05ba85655ecae33ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "荆门",
+            "location": { "lat": 31.041733, "lng": 112.206389 },
+            "uid": "9e1ecd84baf92f819f09f7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "偃师",
+            "location": { "lat": 34.733796, "lng": 112.796423 },
+            "uid": "6000101013367be6b817e7eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华阴",
+            "location": { "lat": 34.571801, "lng": 110.098605 },
+            "uid": "59143023ffd171b4e50738e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宝鸡",
+            "location": { "lat": 34.368915, "lng": 107.244572 },
+            "uid": "c415c3e693fd1da9c72ba1e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "剑阁",
+            "location": { "lat": 32.293478, "lng": 105.531575 },
+            "uid": "3e2b636a35284eacd618b7ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "德阳",
+            "location": { "lat": 31.133116, "lng": 104.404417 },
+            "uid": "4cc3eecb35fbae831d5800e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "九江",
+            "location": { "lat": 29.71134, "lng": 116.007533 },
+            "uid": "2afff4088a3d3ac08bdb73e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "赣州",
+            "location": { "lat": 25.835176, "lng": 114.940508 },
+            "uid": "8ced9745462a194bb8bd63e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "雅安",
+            "location": { "lat": 30.016792, "lng": 103.049539 },
+            "uid": "460c6dc8a35f3ba55d0d02e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "成都",
+            "location": { "lat": 30.655823, "lng": 104.08153 },
+            "uid": "df3970fe28cd251103ec01e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "剑阁",
+            "location": { "lat": 32.293478, "lng": 105.531575 },
+            "uid": "3e2b636a35284eacd618b7ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉县",
+            "location": { "lat": 34.280375, "lng": 107.756399 },
+            "uid": "4eb54c2419c0964d9a0050ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "扶风",
+            "location": { "lat": 34.381464, "lng": 107.906452 },
+            "uid": "91fa4b5eb209994de6e965ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "临潼",
+            "location": { "lat": 34.372748, "lng": 109.220439 },
+            "uid": "2013d222d139f925c82915c6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "灵宝",
+            "location": { "lat": 34.523144, "lng": 110.900406 },
+            "uid": "62e42a2ffe531d422811d1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "渑池",
+            "location": { "lat": 34.773197, "lng": 111.768546 },
+            "uid": "c7c4b8ad0610a96b2902e1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "郑州",
+            "location": { "lat": 34.75344, "lng": 113.631416 },
+            "uid": "9665f01efc56794e0482c2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "乐山",
+            "location": { "lat": 29.55794, "lng": 103.77254 },
+            "uid": "cd1ca60f5e1613f0b2077de6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "犍为",
+            "location": { "lat": 29.21422, "lng": 103.955507 },
+            "uid": "4af1b76ff35285eb841541e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜宾",
+            "location": { "lat": 28.758007, "lng": 104.649403 },
+            "uid": "27c93119c5f0d35716a190e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "泸州",
+            "location": { "lat": 28.877668, "lng": 105.448526 },
+            "uid": "df3870fe28cd251103ec01e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "合江",
+            "location": { "lat": 28.818006, "lng": 105.837367 },
+            "uid": "004515765c12d31fc6effbec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "重庆",
+            "location": { "lat": 29.568996, "lng": 106.558437 },
+            "uid": "d346fa2b94fb88054bcc4ae6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "涪陵",
+            "location": { "lat": 29.709277, "lng": 107.396421 },
+            "uid": "a883fc00209a4f4bb05c6aea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "丰都",
+            "location": { "lat": 29.869412, "lng": 107.737481 },
+            "uid": "d420b2ff5b009d930ab93ae8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "万州",
+            "location": { "lat": 30.813622, "lng": 108.415558 },
+            "uid": "032f340450e300ad2dfaa7ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "奉节",
+            "location": { "lat": 31.024602, "lng": 109.470474 },
+            "uid": "eacef98b35dc0df92fb96dea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巫山",
+            "location": { "lat": 31.080519, "lng": 109.885545 },
+            "uid": "5e04ecca210ef240744ff1ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巴东",
+            "location": { "lat": 31.047994, "lng": 110.347325 },
+            "uid": "3cbd8a5c0f3bd0acf02d83e8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "秭归",
+            "location": { "lat": 30.831931, "lng": 110.984451 },
+            "uid": "0a173c297f7aa865f6c59ce9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜昌",
+            "location": { "lat": 30.697446, "lng": 111.292552 },
+            "uid": "cda0ba05ba85655ecae33ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "荆州",
+            "location": { "lat": 30.340843, "lng": 112.245519 },
+            "uid": "cae9050c8703c20b0a5cb3e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "荆门",
+            "location": { "lat": 31.041733, "lng": 112.206389 },
+            "uid": "9e1ecd84baf92f819f09f7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "钟祥",
+            "location": { "lat": 31.17403, "lng": 112.594475 },
+            "uid": "e6e2d545d2c73bb682a12eee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄阳",
+            "location": { "lat": 32.014797, "lng": 112.128533 },
+            "uid": "514a79d8cd6e54eaaaf0cd0d"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "唐河",
+            "location": { "lat": 32.687721, "lng": 112.813428 },
+            "uid": "295d64f512e914af45e274ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "叶县",
+            "location": { "lat": 33.632491, "lng": 113.363586 },
+            "uid": "3cafde09961641927369d3ed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "襄城",
+            "location": { "lat": 33.857913, "lng": 113.513424 },
+            "uid": "1ce285ca48093743343a71ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "许昌",
+            "location": { "lat": 34.041433, "lng": 113.858472 },
+            "uid": "91de8de7681fc6473904b1e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "尉氏",
+            "location": { "lat": 34.417228, "lng": 114.199558 },
+            "uid": "f41fbee0781c4681f60e77ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    }
+]

@@ -47,6 +47,7 @@ for i in range(1,ii-1):
     file = open('./coords/'+sys.argv[1]+'Coords/coord'+str(i)+'.json', mode='r',encoding='UTF-8-sig')
     list+=json.load(file)
 print(list)
+print(sys.argv[1])
 
 with open('./coords/'+sys.argv[1]+'Coords/coord.json','w+',encoding='UTF-8-sig') as coord:
         json.dump(list, coord, ensure_ascii=False)

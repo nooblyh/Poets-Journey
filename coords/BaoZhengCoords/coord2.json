@@ -2,7 +2,7 @@
         "status": 0,
         "message": "ok",
         "results": [{
-            "name": "巴林左",
+            "name": "巴林",
             "location": { "lat": 43.976383, "lng": 119.386446 },
             "uid": "ba7a3ff2fb50b53e210220e4"
         }]
