@@ -325,5 +325,14 @@ myChart.on('timelineChanged', function() {
     myChart.setOption(option);
 });
 
+myChart.on('click', function () {
+    document.getElementById("poetInfo").innerHTML = "";
+    document.getElementById("poet").innerHTML = "";
+    var highestTimeoutId = setTimeout(";");
+    for (var i = 0 ; i < highestTimeoutId ; i++) {
+        clearTimeout(i);   //清除所有的延时事件，不显示诗句
+    }
+});
+
 
 
