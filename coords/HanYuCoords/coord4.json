@@ -1,0 +1,46 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "郑州",
+            "location": { "lat": 34.75344, "lng": 113.631416 },
+            "uid": "9665f01efc56794e0482c2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "潼关",
+            "location": { "lat": 34.550326, "lng": 110.252512 },
+            "uid": "40c2934b3252e3a58a36eeef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    }
+]

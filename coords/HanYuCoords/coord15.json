@@ -1,0 +1,46 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "寿阳",
+            "location": { "lat": 37.901306, "lng": 113.183413 },
+            "uid": "91f30d01d327cb7526d2bbe8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "平定",
+            "location": { "lat": 37.792796, "lng": 113.66442 },
+            "uid": "a0d60fe88714679d54bfffed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "正定",
+            "location": { "lat": 38.151714, "lng": 114.577484 },
+            "uid": "a0d80fe88714679d54bfffeb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    }
+]

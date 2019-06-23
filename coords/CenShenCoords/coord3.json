@@ -1,0 +1,112 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "芮城",
+            "location": { "lat": 34.699388, "lng": 110.700613 },
+            "uid": "4afab76ff35285eb841541e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "灵宝",
+            "location": { "lat": 34.523144, "lng": 110.900406 },
+            "uid": "62e42a2ffe531d422811d1eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "临漳",
+            "location": { "lat": 36.340766, "lng": 114.626424 },
+            "uid": "05ded1fe0e4b738514b54be8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "邯郸",
+            "location": { "lat": 36.631263, "lng": 114.54563 },
+            "uid": "7bd1083e98d5a0218b2fb5e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "清河",
+            "location": {
+                "lat": 37.046375,
+                "lng": 115.674396
+            },
+            "uid": "6d73fffca9cfa740ca09f0eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "冀州",
+            "location": { "lat": 37.557086, "lng": 115.585428 },
+            "uid": "b0b791c2bdf8bae8b6f42fe6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "定州",
+            "location": { "lat": 38.522201, "lng": 114.996499 },
+            "uid": "b9100b2f4aed015a5fd4feeb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "井陉",
+            "location": { "lat": 38.038387, "lng": 114.151463 },
+            "uid": "a71fc211e1d36cf6ee74f8eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "浚县",
+            "location": { "lat": 35.681918, "lng": 114.557605 },
+            "uid": "a3310d0cb10d0c73028972ef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "新乡",
+            "location": { "lat": 35.30964, "lng": 113.933597 },
+            "uid": "eacdddd0266fb36676e5b6e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    }
+]

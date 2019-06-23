@@ -1,0 +1,55 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟津",
+            "location": { "lat": 34.831731, "lng": 112.45142 },
+            "uid": "a21abc189040548903ff2dee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "孟州",
+            "location": { "lat": 34.913598, "lng": 112.797393 },
+            "uid": "d0f3cf38bc8eb39235b06cef"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巩义",
+            "location": { "lat": 34.754098, "lng": 113.028428 },
+            "uid": "0681a2b9c12e63bf8505bfe9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "新郑",
+            "location": { "lat": 34.401767, "lng": 113.746435 },
+            "uid": "a3320d0cb10d0c73028972ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宿州",
+            "location": { "lat": 33.652096, "lng": 116.970543 },
+            "uid": "894470f3819df2b3616858e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "徐州",
+            "location": { "lat": 34.212666, "lng": 117.290574 },
+            "uid": "4948d9f24a242554336212e7"
+        }]
+    }
+]

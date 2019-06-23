@@ -1,0 +1,310 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "盐官",
+            "location": {
+                "lat": 30.456763,
+                "lng": 120.565004
+            },
+            "uid": "ed2e3e770d5bbbd32efaa7c1"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "杭州",
+            "location": { "lat": 30.253082, "lng": 120.21551 },
+            "uid": "99f429f6963d1f271fe999e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "湖州",
+            "location": { "lat": 30.898964, "lng": 120.094518 },
+            "uid": "7dde50f510b5a7a5118824e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "吴江",
+            "location": { "lat": 31.144645, "lng": 120.651566 },
+            "uid": "107755f29501fab8593ac88a"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "青浦",
+            "location": { "lat": 31.155454, "lng": 121.130551 },
+            "uid": "46076dc8a35f3ba55d0d02ed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "苏州",
+            "location": { "lat": 31.303565, "lng": 120.592412 },
+            "uid": "40ca934b3252e3a58a36eee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "常州",
+            "location": { "lat": 31.815796, "lng": 119.981484 },
+            "uid": "a3390d0cb10d0c73028972e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "镇江",
+            "location": { "lat": 32.194717, "lng": 119.43049 },
+            "uid": "dbb3f15e7d51c145364aaee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "扬州",
+            "location": { "lat": 32.400676, "lng": 119.419423 },
+            "uid": "9e133d19c0cfce470f0a70e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "高邮",
+            "location": { "lat": 32.787148, "lng": 119.465614 },
+            "uid": "6af0d4bbde1f0ace71210bee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "淮安",
+            "location": { "lat": 33.616295, "lng": 119.021483 },
+            "uid": "e0a7020e884d0b59b020a8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "连云港",
+            "location": { "lat": 34.602249, "lng": 119.228623 },
+            "uid": "1cea85ca48093743343a71e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "诸城",
+            "location": { "lat": 36.002011, "lng": 119.416405 },
+            "uid": "3e029a6af13d905e72455bee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "潍坊",
+            "location": { "lat": 36.71265, "lng": 119.168374 },
+            "uid": "a213bc189040548903ff2de7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "益都",
+                "location": { "lat": 36.703853, "lng": 118.477611 },
+                "address": "潍坊市青州市尧王山西路",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "2c5ca32ffc501d7a59bbbcff",
+                "detail": 1,
+                "uid": "2c5ca32ffc501d7a59bbbcff"
+            },
+            {
+                "name": "益都街道办",
+                "location": { "lat": 36.778139, "lng": 118.444121 },
+                "address": "山东省潍坊市青州市东高村",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 1,
+                "uid": "b703e96b7860fd878f1a895c"
+            },
+            {
+                "name": "益都东路",
+                "location": { "lat": 36.726538, "lng": 118.526534 },
+                "address": "山东省潍坊市青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "dfc07f13290410696e3e1b34"
+            },
+            {
+                "name": "益都西路",
+                "location": { "lat": 36.737859, "lng": 118.481173 },
+                "address": "山东省潍坊市青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "d156330396275777c06c1434"
+            },
+            {
+                "name": "益都街道",
+                "location": { "lat": 36.778224, "lng": 118.440962 },
+                "address": "青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 1,
+                "uid": "77409d995ad3cfd49222e098"
+            },
+            {
+                "name": "益都街道龙山路卫生所",
+                "location": { "lat": 36.709221, "lng": 118.488992 },
+                "address": "潍坊市青州市龙山路4号",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "ee9d9f458645a2bd932ca39e",
+                "detail": 1,
+                "uid": "ee9d9f458645a2bd932ca39e"
+            },
+            {
+                "name": "益都实业开发",
+                "location": { "lat": 36.72954, "lng": 118.481709 },
+                "address": "明祖山西路619号附近",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "7195a9168e32f08381a12ef2",
+                "detail": 1,
+                "uid": "7195a9168e32f08381a12ef2"
+            },
+            {
+                "name": "益都造纸机械厂",
+                "location": { "lat": 36.70732, "lng": 118.518547 },
+                "address": "昭德北路西150米",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "9f5e70da86404751047ce8af",
+                "detail": 1,
+                "uid": "9f5e70da86404751047ce8af"
+            },
+            {
+                "name": "益都卫生院",
+                "location": { "lat": 36.776044, "lng": 118.440423 },
+                "address": "青州16路",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "39ca21e90b0a6e94f33cba45"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "济南",
+            "location": { "lat": 36.656554, "lng": 117.126399 },
+            "uid": "e6ebd545d2c73bb682a12ee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "东平",
+            "location": { "lat": 35.941908, "lng": 116.477598 },
+            "uid": "52fe61027b19e457eaf853ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "汶上",
+            "location": { "lat": 35.717055, "lng": 116.505437 },
+            "uid": "89de491c4c1e9a9b3ce231e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "鄄城",
+            "location": { "lat": 35.569206, "lng": 115.516609 },
+            "uid": "5a3255062407fd57dc1e52eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "濮阳",
+            "location": { "lat": 35.767593, "lng": 115.035593 },
+            "uid": "a0dc0fe88714679d54bfffe7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "商丘",
+            "location": { "lat": 34.420202, "lng": 115.662449 },
+            "uid": "8399702dc8e2ee51fe0eb0e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宿州",
+            "location": { "lat": 33.652096, "lng": 116.970543 },
+            "uid": "894470f3819df2b3616858e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "徐州",
+            "location": { "lat": 34.212666, "lng": 117.290574 },
+            "uid": "4948d9f24a242554336212e7"
+        }]
+    }
+]

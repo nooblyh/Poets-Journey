@@ -1,0 +1,135 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "岐山",
+                "location": { "lat": 26.875325, "lng": 112.146079 },
+                "address": "衡阳市衡南县鸡笼镇X101",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "telephone": "(0734)8775777",
+                "detail": 1,
+                "uid": "fd5255a78f68558725e0a000"
+            },
+            {
+                "name": "岐山村",
+                "location": { "lat": 26.865073, "lng": 112.164505 },
+                "address": "衡阳市衡南县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "49d9593879178243c61e51f4"
+            },
+            {
+                "name": "岐山收费站",
+                "location": { "lat": 26.859084, "lng": 112.231841 },
+                "address": "湖南省衡阳市衡南县岐山互通",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "b172a183378ed274afee7aa5"
+            },
+            {
+                "name": "荫岐山",
+                "location": { "lat": 27.011747, "lng": 112.280164 },
+                "address": "衡阳市衡阳县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡阳县",
+                "detail": 1,
+                "uid": "0adce3e2a8f7e26180a00c7a"
+            },
+            {
+                "name": "岐山互通",
+                "location": { "lat": 26.858556, "lng": 112.234042 },
+                "address": "湖南省衡阳市衡南县",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 0,
+                "uid": "0eb120229705ec65d33ce35a"
+            },
+            {
+                "name": "岐山商店",
+                "location": { "lat": 26.878866, "lng": 112.507601 },
+                "address": "湖南省衡阳市衡南县农业科学研究所南(迎峰北路)",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "telephone": "15200583452",
+                "detail": 1,
+                "uid": "becfd1bc59def20c8836eef4"
+            },
+            {
+                "name": "岐山收费站",
+                "location": { "lat": 26.859325, "lng": 112.231956 },
+                "address": "湖南省衡阳市衡南县岐山互通",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "e377640bfba6b5ca3310af16"
+            },
+            {
+                "name": "衡南县岐山小学",
+                "location": { "lat": 26.871752, "lng": 112.161016 },
+                "address": "湖南省衡阳市衡南县岐山办事处岐山完小",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "ff47f75ac9932f13260bd0e3"
+            },
+            {
+                "name": "岐山森林公园-停车场",
+                "location": { "lat": 26.870186, "lng": 112.143822 },
+                "address": "衡阳市衡南县鸡笼镇岐山森林公园内",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "31d430f8b3942705c8213d1a"
+            },
+            {
+                "name": "娄衡高速/岐山互通(路口)",
+                "location": { "lat": 26.85824, "lng": 112.235367 },
+                "address": "衡阳市衡南县娄衡高速",
+                "province": "湖南省",
+                "city": "衡阳市",
+                "area": "衡南县",
+                "detail": 1,
+                "uid": "b47b56027b14d154ab0dd89a"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "周至",
+            "location": { "lat": 34.169385, "lng": 108.228423 },
+            "uid": "d0f743bfc4b2b3b83f9a5eeb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    }
+]

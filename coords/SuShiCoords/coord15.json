@@ -1,0 +1,73 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "定远",
+            "location": { "lat": 32.537047, "lng": 117.704468 },
+            "uid": "5a3ee65abdeb6544e01103ea"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤阳",
+            "location": { "lat": 32.880977, "lng": 117.538587 },
+            "uid": "cae0050c8703c20b0a5cb3ee"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "盱眙",
+            "location": { "lat": 33.018255, "lng": 118.551444 },
+            "uid": "4a3f640b740e4c06213bf2e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "淮安",
+            "location": { "lat": 33.616295, "lng": 119.021483 },
+            "uid": "e0a7020e884d0b59b020a8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "扬州",
+            "location": { "lat": 32.400676, "lng": 119.419423 },
+            "uid": "9e133d19c0cfce470f0a70e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "镇江",
+            "location": { "lat": 32.194717, "lng": 119.43049 },
+            "uid": "dbb3f15e7d51c145364aaee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "苏州",
+            "location": { "lat": 31.303565, "lng": 120.592412 },
+            "uid": "40ca934b3252e3a58a36eee7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "余杭",
+            "location": { "lat": 30.424739, "lng": 120.306589 },
+            "uid": "4a40842be5f1bd4cf603b8ed"
+        }]
+    }
+]

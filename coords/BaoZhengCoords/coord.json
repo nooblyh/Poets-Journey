@@ -1,0 +1,199 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "合肥",
+            "location": { "lat": 31.826578, "lng": 117.233441 },
+            "uid": "3bee271c54ffab581df74de6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "天长",
+            "location": { "lat": 32.673411, "lng": 119.011386 },
+            "uid": "21f6d322d139f925c92915eb"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "肇庆",
+            "location": { "lat": 23.052889, "lng": 112.471488 },
+            "uid": "f848490592b68e5dfea778e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "巴林左",
+            "location": { "lat": 43.976383, "lng": 119.386446 },
+            "uid": "ba7a3ff2fb50b53e210220e4"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+                "name": "益都",
+                "location": { "lat": 36.703853, "lng": 118.477611 },
+                "address": "潍坊市青州市尧王山西路",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "2c5ca32ffc501d7a59bbbcff",
+                "detail": 1,
+                "uid": "2c5ca32ffc501d7a59bbbcff"
+            },
+            {
+                "name": "益都街道办",
+                "location": { "lat": 36.778139, "lng": 118.444121 },
+                "address": "山东省潍坊市青州市东高村",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 1,
+                "uid": "b703e96b7860fd878f1a895c"
+            },
+            {
+                "name": "益都东路",
+                "location": { "lat": 36.726538, "lng": 118.526534 },
+                "address": "山东省潍坊市青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "dfc07f13290410696e3e1b34"
+            },
+            {
+                "name": "益都西路",
+                "location": { "lat": 36.737859, "lng": 118.481173 },
+                "address": "山东省潍坊市青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "d156330396275777c06c1434"
+            },
+            {
+                "name": "益都街道",
+                "location": { "lat": 36.778224, "lng": 118.440962 },
+                "address": "青州市",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 1,
+                "uid": "77409d995ad3cfd49222e098"
+            },
+            {
+                "name": "益都街道龙山路卫生所",
+                "location": { "lat": 36.709221, "lng": 118.488992 },
+                "address": "潍坊市青州市龙山路4号",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "ee9d9f458645a2bd932ca39e",
+                "detail": 1,
+                "uid": "ee9d9f458645a2bd932ca39e"
+            },
+            {
+                "name": "益都实业开发",
+                "location": { "lat": 36.72954, "lng": 118.481709 },
+                "address": "明祖山西路619号附近",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "7195a9168e32f08381a12ef2",
+                "detail": 1,
+                "uid": "7195a9168e32f08381a12ef2"
+            },
+            {
+                "name": "益都造纸机械厂",
+                "location": { "lat": 36.70732, "lng": 118.518547 },
+                "address": "昭德北路西150米",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "street_id": "9f5e70da86404751047ce8af",
+                "detail": 1,
+                "uid": "9f5e70da86404751047ce8af"
+            },
+            {
+                "name": "益都卫生院",
+                "location": { "lat": 36.776044, "lng": 118.440423 },
+                "address": "青州16路",
+                "province": "山东省",
+                "city": "潍坊市",
+                "area": "青州市",
+                "detail": 0,
+                "uid": "39ca21e90b0a6e94f33cba45"
+            }
+        ]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "河北",
+            "location": { "lat": 38.0432, "lng": 114.536594 },
+            "uid": "6f1759abad2e8a57f21937e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    }
+]

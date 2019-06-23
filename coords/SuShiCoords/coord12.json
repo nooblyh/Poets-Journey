@@ -1,0 +1,163 @@
+﻿[{
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "武功",
+            "location": { "lat": 34.266138, "lng": 108.206549 },
+            "uid": "9663f01efc56794e0482c2e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "凤翔",
+            "location": { "lat": 34.527616, "lng": 107.40738 },
+            "uid": "4a41842be5f1bd4cf603b8ec"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "西安",
+            "location": { "lat": 34.347269, "lng": 108.946465 },
+            "uid": "6004101013367be6b817e7e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "临潼",
+            "location": { "lat": 34.372748, "lng": 109.220439 },
+            "uid": "2013d222d139f925c82915c6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "渭南",
+            "location": { "lat": 34.505715, "lng": 109.516593 },
+            "uid": "e4f715e686e315b325e0a0e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "华阴",
+            "location": { "lat": 34.571801, "lng": 110.098605 },
+            "uid": "59143023ffd171b4e50738e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "陕州",
+            "location": { "lat": 34.72676, "lng": 111.109829 },
+            "uid": "e0a1020e884d0b59b020a8e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "郑州",
+            "location": { "lat": 34.75344, "lng": 113.631416 },
+            "uid": "9665f01efc56794e0482c2e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "开封",
+            "location": { "lat": 34.802885, "lng": 114.314595 },
+            "uid": "a71bc211e1d36cf6ee74f8e7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "盱眙",
+            "location": { "lat": 33.018255, "lng": 118.551444 },
+            "uid": "4a3f640b740e4c06213bf2e9"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "鄂州",
+            "location": { "lat": 30.396571, "lng": 114.901611 },
+            "uid": "4ebf4c2419c0964d9a0050e6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "石首",
+            "location": { "lat": 29.727035, "lng": 112.431424 },
+            "uid": "7a97322b4abe1ab9f42310ed"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "沙市",
+            "location": { "lat": 30.316572, "lng": 112.261581 },
+            "uid": "41e7111ca8a6e39141e192c6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "宜昌",
+            "location": { "lat": 30.697446, "lng": 111.292552 },
+            "uid": "cda0ba05ba85655ecae33ce7"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "云阳",
+            "location": { "lat": 30.93661, "lng": 108.703447 },
+            "uid": "cde131e17526799f49fd3fe8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "丰都",
+            "location": { "lat": 29.869412, "lng": 107.737481 },
+            "uid": "d420b2ff5b009d930ab93ae8"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "重庆",
+            "location": { "lat": 29.568996, "lng": 106.558437 },
+            "uid": "d346fa2b94fb88054bcc4ae6"
+        }]
+    },
+    {
+        "status": 0,
+        "message": "ok",
+        "results": [{
+            "name": "眉山",
+            "location": { "lat": 30.082527, "lng": 103.856567 },
+            "uid": "5a3ae65abdeb6544e01103e6"
+        }]
+    }
+]
