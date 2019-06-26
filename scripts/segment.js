@@ -15,7 +15,6 @@ var baseOption = {
     title: {
         //input name
         text: poetName,
-        subtext: 'by lyh',
         left: 'center',
         textStyle: {
             color: '#ffa022'
@@ -36,7 +35,7 @@ var baseOption = {
         // controlStyle: {
         //     position: 'left'
         // },
-        data: ['0-18岁', '19-23岁', '23-25岁', '25-26岁', '27-29岁', '29-31岁', '31-35岁', '35-37岁', '37-39岁', '39-40岁', '40-43岁', '43-44岁', '44-45岁', '45-46岁', '46-47岁', '47岁', '48-49岁', '49-53岁', '53岁', '53-54岁', '54-55岁', '55-56岁', '56-57岁', '57-58岁', '58-59岁', '59-60岁', '60-61岁'],
+        data: [],
         label: {
             formatter: '{value}'
         }
@@ -289,11 +288,6 @@ for (let stage = 1; stage < 60; stage++) {
         addOption(data, allOption);
     });
 }
-tmp = [];
-$.ajaxSettings.async = false;
-$.getJSON('../stages/' + poetName + 'Stage.txt', function(data) {
-    tmp.push(data);
-});
 
 function string2Array(stringObj) { //年龄段字符串转为列表
     stringObj = stringObj.replace(/\[([\w, ]*)\]/, "$1");
