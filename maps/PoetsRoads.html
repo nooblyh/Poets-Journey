@@ -86,22 +86,23 @@
 <div class="form-inline">
   <div class="col-md-20">
     <div class="col-sm-3 col-lg-3" style="background-color: #FFEEDD;">
-      <h2>关于诗人</h2>
+      <h2 id="chiName"></h2>
       <div class="row">
         <div class="row-lg-6 col-lg-11" style="background-color: #FFEEDD;">
-          <h5>我的照片:</h5>
+          
           <!--                            <div class=" fakeimg ">这边插入图像</div>--> 
-          <img src="http://www.hwjyw.com/zhwh/traditional_culture/zgwx/gdwx/200712/W020071213534008368140.jpg" class="img-rounded " alt="Dufu " width="304 " height="300 ">
-          <p>关于我的介绍..</p>
-          <p>描述文本。</p>
+          <img id = "poetImg" src="" class="img-rounded " alt="img" width="304 " height="300 ">
+          <p id = "poetIntro"></p>
+          
         </div>
-        <div class="row-lg-6 ">
-          <h2>留句：</h2>
-          <p id = "poetInfo">长安</p>
-          <p id = "poet">描述文本。</p>
-          <ul class="nav nav-pills nav-stacked ">
-          </ul>
-        </div>
+       
+      </div>
+      <div class="row-lg-6 " >
+    
+        <p id = "poetryName"></p>
+        <p id = "poetry"></p>
+        <ul class="nav nav-pills nav-stacked ">
+        </ul>
       </div>
     </div>
   </div>
@@ -115,13 +116,15 @@
   <p>第n组</p>
 </div>
 <script>
-  poetList = ['BaoZheng', 'CenShen', 'ChengYi', 'DuFu', 'FuBi',
-   'GaoShi', 'HanYu', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu', 'LiHe',
-    'LingHuChu', 'LiuChangQing', 'LiuZongYuan', 'LuoBinWang', 
-    'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuZenYu', 'PiRiXiu',
-     'poet', 'QianQi', 'QuanDeYu', 'SongXiang', 'SongZhiWen', 
-     'SuShi', 'WangBo', 'WangChangLing', 'WangJi', 'WangWei', 'WeiYingWu', 'WeiZheng', 
-  'XiaoYingShi', 'XingQiJi', 'YangJiong', 'YaoHe', 'ZengGongLiang', 'ZhangChe', 'ZhouHe']
+  poetList =['BaoZheng', 'CenCan', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi', 
+  'HanYu', 'HuangTingJian', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu', 
+  'LiHe', 'LingHuChu', 'LiQingZhao', 'LiuChangQing', 'LiuZongYuan',
+   'LuoBinWang', 'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuZenYu',
+    'PiRiXiu', 'poet', 'QianQi', 'QingGuan', 'QuanDeYu', 'SongXiang', 
+    'SongZhiWen', 'SuShi', 'SuXun', 'SuZhe', 'WangBo', 'WangChangLing',
+     'WangJi', 'WangWei', 'WangZhi', 'WeiYingWu', 'WeiZheng', 'WenTianXiang',
+      'XiaoYingShi', 'XinQiJi', 'YangJiong', 'YangWanLi', 'YaoHe', 'ZengGongLiang',
+       'ZhangChe', 'ZhouHe'];
   var url = window.location.href;
   var poetName;
   if(url.indexOf("=") == -1) poetName = "LiBai";    //
@@ -134,6 +137,7 @@
     var searchTxt = document.getElementById('searchText');
     var chinaName = searchTxt.value;
     poetName = pinyin.getFullChars(chinaName);  //将汉字转为拼音
+    if(poetName == 'SuXuan') poetName = "SuXun";  //汉字转拼音的脚本把苏洵的拼音处理为suxuan,暂时这样修正
     if(poetList.indexOf(poetName) == -1){
       window.alert("抱歉，没有找到"+chinaName+"的结果")
     }
@@ -145,7 +149,7 @@
       }
       window.location.reload();
   }
-    
+  
 }</script>
 
 <script src="http://api.map.baidu.com/api?v=2.0&ak=VEbNXPaYgMqt19eieq6hWKf4jqwZIuUs"></script> 
@@ -155,6 +159,7 @@
 <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> 
  <script src="../scripts/segment.js"></script>
  <script src="../scripts/showPoet.js"></script>
+ <script src="../scripts/changePoet.js"></script>
 
 <!-- <script src="../coords/LiBaiCoords"></script>  -->
 <!-- <script src="../coords/DuFuCoords"></script> -->
