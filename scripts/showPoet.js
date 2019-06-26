@@ -54,8 +54,9 @@ var lineCountArr = [1,2,5,7,9,12,13,14,16,17,18,19,20,24,24,27,29,31,33,36,38,41
 for (var i = 0; i <lineCountArr.length ; i++) { 
     (function(i) {   //使用闭包，避免执行完循环后i值改变使得呈现诗句错误
      setTimeout(function() { 
-        document.getElementById("poetInfo").innerHTML = poetInfoArr[i];
-        document.getElementById("poet").innerHTML = poetArr[i];
+        document.getElementById("poetryName").innerHTML = poetInfoArr[i];
+        
+        document.getElementById("poetry").innerHTML = poetArr[i];
      }, lineCountArr[i]*4000); 
     })(i); 
    } 
