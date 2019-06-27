@@ -1,168 +1,187 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="utf-8">
-<title>
-	诗人生平路线图
-	</title>
-<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	
-	
-<style>
-	.fakeimg {
-		height: 200px;
-		background: #aaa;
-	}
-	.selector{ 
-		font-family:"STXinwei","MicrosoftJhengHei",STHeiti,MingLiu
-	} 
-	
-	.right{
-		float:right;
-	}
-	
-	#box{
-        width: 380px;
-        margin: 30px auto;
-        font-family: 'Microsoft YaHei';
-        font-size: 14px;
-    }
-    input{
-        width: 260px;
-        border: 1px solid #e2e2e2;
-        height: 30px;
-        float: left;
-        /* background-image: url(images/search.jpg); */
-        background-repeat: no-repeat;
-        background-size: 25px;
-        background-position:5px center;
-        padding:0 0 0 40px;
-    }
-    #search{
-        width: 78px;
-        height: 32px;
-        float: right;
-        background: black;
-        color: white;
-        text-align: center;
-        line-height: 32px;
-        cursor: pointer;
-    }
-	h1 {font-size:60px;}
-	h2 {font-size:30px;}
-	p {font-size:14px;}
-	
-</style>
+    <meta charset="utf-8">
+    <title>
+        诗人生平路线图
+    </title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <style>
+        .fakeimg {
+            height: 200px;
+            background: #aaa;
+        }
+        
+        .selector1 {
+            font-family: "STXinwei", "MicrosoftJhengHei", STHeiti, MingLiu
+        }
+        
+		.selector2 {
+            font-family: "FangSong_GB2312",仿宋_GB2312,
+        }
+		
+		.selector3 {
+            font-family: "STKaiti",华文楷体
+        }
+		
+        .right {
+            float: right;
+        }
+        
+        #box {
+            width: 380px;
+            margin: 30px auto;
+            font-family: 'Microsoft YaHei';
+            font-size: 14px;
+        }
+        
+        input {
+            width: 260px;
+            border: 1px solid #e2e2e2;
+            height: 30px;
+            float: left;
+            /* background-image: url(images/search.jpg); */
+            background-repeat: no-repeat;
+            background-size: 25px;
+            background-position: 5px center;
+            padding: 0 0 0 40px;
+        }
+        
+        #search {
+            width: 78px;
+            height: 32px;
+            float: right;
+            background: black;
+            color: white;
+            text-align: center;
+            line-height: 32px;
+            cursor: pointer;
+        }
+        
+        h1 {
+            font-size: 60px;
+        }
+        
+        h2 {
+            font-size: 30px;
+        }
+        
+        p {
+            font-size: 18px;
+        }
+    </style>
 </head>
 
 <body>
-	
-<div class="text-center" 
-  style="background:url(https://img.88tph.com/production/20171212/12384212-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center)">	
-    <blockquote>
-      <h1 class="selector" >
-		  <div style="color:#743A3A">
-		  诗人生平路线图
-		</div>
-		</h1>
-    </blockquote>
-</div>
-	
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
 
-	<div class="right" id="box">
-        <input type="text" id = "searchText" name="search" placeholder="请输入诗人名称">
-        <button type = "button" id="search" onclick = "searchPoet()">搜索</button>
-                                      
+    <div class="text-center" style="background:url(https://img.88tph.com/production/20171212/12384212-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center)">
+        <blockquote>
+            <h1 class="selector1">
+                <div style="color:#743A3A">
+                    诗人生平路线图
+                </div>
+            </h1>
+        </blockquote>
     </div>
-<!--      </ul>-->
-    </div>
-  </div>
-</nav>
-<div class="container-fluid">
-<div class="form-inline">
-  <div class="col-md-20">
-    <div class="col-sm-3 col-lg-3" style="background-color: #FFEEDD;">
-      <h2 id="chiName"></h2>
-      <div class="row">
-        <div class="row-lg-6 col-lg-11" style="background-color: #FFEEDD;">
-          
-          <!--                            <div class=" fakeimg ">这边插入图像</div>--> 
-          <img id = "poetImg" src="" class="img-rounded " alt="img" width="304 " height="300 ">
-          <p id = "poetIntro"></p>
-          
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+
+            <div class="right" id="box">
+                <input type="text" id="searchText" name="search" placeholder="请输入诗人名称">
+                <button type="button" id="search" onclick="searchPoet()">搜索</button>
+
+            </div>
+            <!--      </ul>-->
         </div>
-       
-      </div>
-      <div class="row-lg-6 " >
-    
-        <p id = "poetryName"></p>
-        <p id = "poetry"></p>
-        <ul class="nav nav-pills nav-stacked ">
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="map">
-  <div class="col ">
-    <div class="col-md-4" id="main" style="height:700px;width:75%"></div>
-  </div>
-</div>
-<div class="jumbotron text-center " style="background-color: #FFEEDD;">
-  <p>第n组</p>
-</div>
-<script>
-  poetList =['BaoZheng', 'CenCan', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi', 
-  'HanYu', 'HuangTingJian', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu', 
-  'LiHe', 'LingHuChu', 'LiQingZhao', 'LiuChangQing', 'LiuZongYuan',
-   'LuoBinWang', 'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuZenYu',
-    'PiRiXiu', 'poet', 'QianQi', 'QingGuan', 'QuanDeYu', 'SongXiang', 
-    'SongZhiWen', 'SuShi', 'SuXun', 'SuZhe', 'WangBo', 'WangChangLing',
-     'WangJi', 'WangWei', 'WangZhi', 'WeiYingWu', 'WeiZheng', 'WenTianXiang',
-      'XiaoYingShi', 'XinQiJi', 'YangJiong', 'YangWanLi', 'YaoHe', 'ZengGongLiang',
-       'ZhangChe', 'ZhouHe'];
-  var url = window.location.href;
-  var poetName;
-  if(url.indexOf("=") == -1) poetName = "LiBai";    //
-  else poetName = url.substr(url.indexOf("=")+1);
-</script>
-<script src="../scripts/Convert_Pinyin.js"></script>
+    </nav>
+    <div class="container-fluid">
+        <div class="form-inline">
+            <div class="col-md-20">
+                <div class="col-sm-3 col-lg-3" style="background-color: #fdf0f1;">
+                    <h2 id="chiName" style="text-align: center" class="selector3"></h2>
+                    <div class="row">
+                        <div class="row-lg-6 col-lg-offset-0 col-lg-12" style="background-color: #fdf0f1;">
 
-<script>
-  function searchPoet(){
-    var searchTxt = document.getElementById('searchText');
-    var chinaName = searchTxt.value;
-    poetName = pinyin.getFullChars(chinaName);  //将汉字转为拼音
-    if(poetName == 'SuXuan') poetName = "SuXun";  //汉字转拼音的脚本把苏洵的拼音处理为suxuan,暂时这样修正
-    if(poetList.indexOf(poetName) == -1){
-      window.alert("抱歉，没有找到"+chinaName+"的结果")
-    }
-    else{
-      if(url.indexOf("=") == -1)
-        window.history.pushState({}, 0,  window.location.href + '?' +"poetName="+poetName);
-      else{
-        window.history.pushState({}, 0,  url.substr(0,url.indexOf("=")+1)+poetName);
-      }
-      window.location.reload();
-  }
-  
-}</script>
+                            <!--                            <div class=" fakeimg ">这边插入图像</div>-->
+                            <img id="poetImg" src="" class="img-rounded" class="img-responsive" alt="img" width="320" height="300" style="margin: 0 auto">
+                            <p id="poetIntro" class="selector3"></p>
 
-<script src="http://api.map.baidu.com/api?v=2.0&ak=VEbNXPaYgMqt19eieq6hWKf4jqwZIuUs"></script> 
-<script src="../scripts/incubator-echarts-4.2.1/dist/echarts.js"></script> 
-<script src="../scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script> 
-<script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script> 
-<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> 
- <script src="../scripts/segment.js"></script>
- <script src="../scripts/showPoet.js"></script>
- <script src="../scripts/changePoet.js"></script>
+                        </div>
 
-<!-- <script src="../coords/LiBaiCoords"></script>  -->
-<!-- <script src="../coords/DuFuCoords"></script> -->
+                    </div>
+                    <div class="row-lg-6 ">
+
+                        <p id="poetryName" style="text-align: center" class="selector1"></p>
+                        <p id="poetry" style="text-align: center" class="selector3"></p>
+                        <ul class="nav nav-pills nav-stacked ">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="map">
+            <div class="col ">
+                <div class="col-md-4" id="main" style="height:700px;width:75%"></div>
+            </div>
+        </div>
+        <div class="jumbotron text-center " style="background-color: #FFEEDD;">
+<!--            <p>第n组</p>-->
+        </div>
+        <script>
+            poetList = ['BaoZheng', 'CenCan', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi',
+                'HanYu', 'HuangTingJian', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu',
+                'LiHe', 'LingHuChu', 'LiQingZhao', 'LiuChangQing', 'LiuZongYuan',
+                'LuoBinWang', 'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuSengRu',
+                'PiRiXiu', 'poet', 'QianQi', 'QingGuan', 'QuanDeYu', 'SongXiang',
+                'SongZhiWen', 'SuShi', 'SuXun', 'SuZhe', 'WangBo', 'WangChangLing',
+                'WangJi', 'WangWei', 'WangZhi', 'WeiYingWu', 'WeiZheng', 'WenTianXiang',
+                'XiaoYingShi', 'XinQiJi', 'YangJiong', 'YangWanLi', 'YaoHe', 'ZengGongLiang',
+                'ZhangChe', 'ZhouHe'
+            ];
+            var url = window.location.href;
+            var poetName;
+            if (url.indexOf("=") == -1) poetName = "LiBai"; //
+            else poetName = url.substr(url.indexOf("=") + 1);
+        </script>
+        <script src="../Documents/GitHub/P_Journey/scripts/Convert_Pinyin.js"></script>
+
+        <script>
+            function searchPoet() {
+                var searchTxt = document.getElementById('searchText');
+                var chinaName = searchTxt.value;
+                poetName = pinyin.getFullChars(chinaName); //将汉字转为拼音
+                if (poetName == 'SuXuan') poetName = "SuXun"; //汉字转拼音的脚本把苏洵的拼音处理为suxuan,暂时这样修正
+                if (poetList.indexOf(poetName) == -1) {
+                    window.alert("抱歉，没有找到" + chinaName + "的结果")
+                } else {
+                    if (url.indexOf("=") == -1)
+                        window.history.pushState({}, 0, window.location.href + '?' + "poetName=" + poetName);
+                    else {
+                        window.history.pushState({}, 0, url.substr(0, url.indexOf("=") + 1) + poetName);
+                    }
+                    window.location.reload();
+                }
+
+            }
+        </script>
+
+        <script src="http://api.map.baidu.com/api?v=2.0&ak=VEbNXPaYgMqt19eieq6hWKf4jqwZIuUs"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/incubator-echarts-4.2.1/dist/echarts.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
+        <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+        <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/showPoet.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/changePoet.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/segment.js"></script>
+
+        <!-- <script src="../coords/LiBaiCoords"></script>  -->
+        <!-- <script src="../coords/DuFuCoords"></script> -->
 
 </body>
+
 </html>
