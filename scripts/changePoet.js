@@ -232,36 +232,27 @@ var poetsInfo = [{
         "img": "http://img.zuimeici.com/uploads/1601/1-160112003210448-lp.jpg",
         "intro": "杨万里（1127年10月29日－1206年6月15日），字廷秀，号诚斋。吉州吉水（今江西省吉水县黄桥镇湴塘村）人。南宋著名诗人、大臣，与陆游、尤袤、范成大并称为“中兴四大诗人”。因宋光宗曾为其亲书“诚斋”二字，故学者称其为“诚斋先生”。"
     }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
+        "name": "YaoHe",
+        "chiName": "姚合",
+        "img": "http://media.zhongguoshici.com/logos/919b2305c7838983d0e4c421ca23b55a",
+        "intro": "姚合（约公元779～约公元855），唐代著名诗人。姚合在当时诗名很盛，交游甚广，与刘禹锡、李绅、张籍、王建、杨巨源、马戴、李群玉等都有往来唱酬。与贾岛友善，诗亦相近，然较贾岛略为平浅。世称“姚贾”。"
     }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
+        "name": "ZengGongLiang",
+        "chiName": "曾公亮",
+        "img": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=96c400c78526cffc7d27b7e0d86821f5/64380cd7912397dd80c5ee5a5e82b2b7d0a2872b.jpg",
+        "intro": "曾公亮（999年－1078年2月27日），字明仲，号乐正。泉州晋江县（今福建省泉州市）人 。北宋政治家、文学家，刑部郎中曾会次子。曾公亮端庄忠厚深沉，办事细致周密，平时谨守礼仪，遵守规矩，但性情吝啬，积累财富达巨万，神宗曾经将他比作西汉名臣张安世。"
     }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
+        "name": "ZhangChe",
+        "chiName": "张彻",
+        "img": "http://pic26.nipic.com/20121217/2562635_174353134123_2.jpg",
+        "intro": "张彻（?～821），字华耀，清河人，世居南雄保昌县沙水村，排行大，生一子名兴。彻尝从韩愈学，曾与张籍、孟郊三君子联句赋诗；韩愈嘉许其才，以堂侄女妻之。"
     }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
-    }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
-    }, {
-        "name": "",
-        "chiName": "",
-        "img": "../images/.jpg",
-        "intro": ""
+        "name": "ZhouHe",
+        "chiName": "周贺",
+        "img": "https://image.gushimi.org/file/ee8233b1435c013283aeb46ae2da75c6.jpg",
+        "intro": "周贺，生卒年均不详，约唐穆宗长庆元年前后在世。初居庐山为浮屠，名清塞。后客南徐，又来少室、终南间。工近体诗，格调清雅，与贾岛、无可齐名。"
     }
+    
 ]
 
 for (var i = 0; i < poetsInfo.length; i++) {
