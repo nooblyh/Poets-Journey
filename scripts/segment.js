@@ -54,7 +54,7 @@ var addOption = function(data, allOption) {
         type: 'scatter',
         coordinateSystem: 'bmap',
         zlevel: 2,
-        color: '#a6c8a1',
+        color: '#864E4E',
         tooltip: {
             formatter: '{b}' //b代表data里的name
         },
@@ -133,7 +133,7 @@ var addOption = function(data, allOption) {
             },
             lineStyle: {
                 normal: {
-                    color: color[0],
+                    color: '#5F5254',
                     width: 3,
                     opacity: 0.6,
                     curveness: 0.2
@@ -161,13 +161,13 @@ var addOption = function(data, allOption) {
                     "featureType": "water",
                     "elementType": "all",
                     "stylers": {
-
+                        "color": "#C4CCD8"
                     }
                 }, {
                     "featureType": "land",
                     "elementType": "all",
                     "stylers": {
-                        "color": "#FFEEDD"
+                        "color": "#E5D2D5"
                     }
                 }, {
                     "featureType": "boundary",
