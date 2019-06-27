@@ -11,15 +11,6 @@ for (var i = 0; i < poetsInfo.length; i++) {
 }
 
 var baseOption = {
-    animation: false,
-    title: {
-        //input name
-        text: poetName,
-        left: 'center',
-        textStyle: {
-            color: '#ffa022'
-        }
-    },
     tooltip: {
         trigger: 'item'
     },
@@ -38,6 +29,9 @@ var baseOption = {
         data: [],
         label: {
             formatter: '{value}'
+        },
+        controlStyle: {
+            showPlayBtn: false
         }
     }
 }
@@ -102,14 +96,14 @@ var addOption = function(data, allOption) {
                 show: true,
                 delay: (i - 1) * 4000,
                 period: 4,
-                trailLength: 0.7,
-                color: color[2],
-                symbolSize: 3
+                trailLength: 5,
+                color: "#FFFFFF",
+                symbolSize: 5
             },
 
             lineStyle: {
                 normal: {
-                    color: color[0],
+                    color: "#FFFFFF",
                     width: 0,
                     curveness: 0.2
                 }
@@ -130,7 +124,7 @@ var addOption = function(data, allOption) {
                 period: 4,
                 trailLength: 0,
                 symbol: "image://" + poetImg,
-                symbolSize: 40
+                symbolSize: 30
             },
             lineStyle: {
                 normal: {
@@ -326,10 +320,18 @@ myChart.on('timelineChanged', function() {
     myChart.clear();
     myChart.setOption(option);
 });
-
+/*
+myChart.getModel().getComponent('bmap').getBMap().addEventListener("zoomend", function() {
+    x = myChart.getOption().timeline[0].currentIndex;
+    baseOption["timeline"]["currentIndex"] = x;
+    //清空option，重新加载
+    myChart.clear();
+    myChart.setOption(option);
+});
+*/
 myChart.on('click', function() {
-    document.getElementById("poetInfo").innerHTML = "";
-    document.getElementById("poet").innerHTML = "";
+    document.getElementById("poetryName").innerHTML = "";
+    document.getElementById("poetry").innerHTML = "";
     var highestTimeoutId = setTimeout(";");
     for (var i = 0; i < highestTimeoutId; i++) {
         clearTimeout(i); //清除所有的延时事件，不显示诗句
