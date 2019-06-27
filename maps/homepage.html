@@ -1,250 +1,248 @@
 <DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-<title> 诗人生平路线图 </title>
-  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-  <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	  
-	  <style>
-		  
-		h1{
-			margin-top:180px;
-			font-family:"STXinwei","MicrosoftJhengHei",STHeiti,MingLiu;
-			font-size: 120px;
-			color:#743A3A
+    <html>
 
-		}
-		p.small{
-   			margin-bottom:20px;
-			font-size: 15px;
-			color:#743A3A
-		}
-		  
-		.search input {  
-			width: 260px;
-			height: 50px;
-            border: 2px solid #743A3A;  
-            border-radius: 5px;  
-            background: #FFFAFE; 
-			background-position:5px center;
-            color: black;  
-			font-size: 20px;  
-			padding: 0 40px 0 15px; 
-        }  
-		  
-        .search button {  
-            width: 90px;
-			height: 54px;
-			top: 0;  
-            right: 0;  
-			font-size: 20px;  
-            background: #743A3A;  
-            border-radius: 5px;  
-			color:white;
-			
-        }  
-        .search button:before {  
-             
-            font-family: FontAwesome;  
-            font-size: 20px;  
-            color: white;  
-        }  
-		  
-		  .ct{
-			  
-			  margin-top:200px;
-			margin-left:10px;
-			margin-right:10px;
-			margin-bottom:60px;
-			  transition: .4s;
-			  
-		  }
-		.item__bg{
-			  
+    <head>
+        <meta charset="utf-8">
+        <title> 诗人生平路线图 </title>
+        <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+        <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-*/
-			transition: .4s;
-			margin-top: 10px;
-			
-			margin-bottom:10px;
-			margin-left:10px;
-			margin-right:10px;
-			
-			background-color:#FFF6FD;
-			-webkit-box-shadow:0px 3px 3px #c8c8c8 ;
-			-moz-box-shadow:0px 3px 3px #c8c8c8 ;
-			box-shadow:0px 3px 3px #c8c8c8 ;
-			border-radius: 10px;
-		}
-		.name{
-			font-family:"STXinwei","MicrosoftJhengHei",STHeiti,MingLiu;
-			font-size: 30px;
-			color:#743A3A
-			  
-			  
-		  }
-		  
-		  .description{
-			  
-			  padding-top:3px;
-			padding-left:6px;
-			padding-right:6px;
-			padding-bottom:10px;
-			  font-size: 14px;
-			  font-family: "STKaiti",华文楷体
-
-			  
-		  }
-		  
-		  .pic{
-			   width: 180px;
-			height: 220px;
-			  margin-top: 15px;
-			
-			margin-bottom:5px;
-			  border-radius: 5px;
-			  align-content: center;
-		  }
-	</style>
-  </head>
+        <style>
+            h1 {
+                margin-top: 160px;
+                font-family: "STXinwei", "MicrosoftJhengHei", STHeiti, MingLiu;
+                font-size: 120px;
+                color: #743A3A
+            }
+            
+            p.small {
+                margin-bottom: 20px;
+                font-size: 15px;
+                color: #743A3A
+            }
+            
+            .search input {
+                width: 260px;
+                height: 50px;
+                border: 2px solid #743A3A;
+                border-radius: 5px;
+                background: #FFFAFE;
+                background-position: 5px center;
+                color: black;
+                font-size: 20px;
+                padding: 0 40px 0 15px;
+            }
+            
+            .search button {
+                width: 90px;
+                height: 54px;
+                top: 0;
+                right: 0;
+                font-size: 20px;
+                background: #743A3A;
+                border-radius: 5px;
+                color: white;
+            }
+            
+            .search button:before {
+                font-family: FontAwesome;
+                font-size: 20px;
+                color: white;
+            }
+            
+            .ct {
+                margin-top: 200px;
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-bottom: 60px;
+                transition: .4s;
+            }
+            
+            .item__bg {
+                transition: .4s;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 10px;
+                margin-right: 10px;
+                background-color: #FFF6FD;
+                -webkit-box-shadow: 0px 3px 3px #c8c8c8;
+                -moz-box-shadow: 0px 3px 3px #c8c8c8;
+                box-shadow: 0px 3px 3px #c8c8c8;
+                border-radius: 10px;
+            }
+            
+            .name {
+                font-family: "STXinwei", "MicrosoftJhengHei", STHeiti, MingLiu;
+                font-size: 30px;
+                color: #743A3A
+            }
+            
+            .description {
+                padding-top: 3px;
+                padding-left: 6px;
+                padding-right: 6px;
+                padding-bottom: 10px;
+                font-size: 14px;
+                font-family: "STKaiti", 华文楷体
+            }
+            
+            .pic {
+                width: 180px;
+                height: 220px;
+                margin-top: 15px;
+                margin-bottom: 5px;
+                border-radius: 5px;
+                align-content: center;
+            }
+        </style>
+    </head>
 
 
-<body style="background:url(https://img.88tph.com/production/20171212/12384212-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center)">
-	
-	<nav class="navbar navbar-inverse">
-  		<div class="container-fluid">
-			<p class="nav">诗人生平路线图</p>
-		                            
-    </div>
-</nav>
-		
-	<div class="container-fluid">	
-		<div class="text-center" style="margin-bottom:0">
-    		<h1>诗人生平路线图</h1>
-        	 <p class="small">
-       			 这些诗人都去过哪？
-         	 </p>
- 		</div>
-		
-		<div class="search" id="box">
-			<center>
-					<input type="text"   id = "searchText" name="search" placeholder="请输入诗人名称">
-					<button type = "button"  id="search" onclick = "searchPoet()" data-loading-text="Loading..."><i class="icon-search"> </i>搜索</button>
-							
-            </center>  				
-  		</div>
-	</div>
-		
-		
-<!--	<section class="bg-off-white pb-40 pt-30">-->
+    <body style="background:url(https://img.88tph.com/production/20171212/12384212-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center)">
+
+
+<nav class="navbar navbar-inverse navbar-static-top">
       <div class="container-fluid">
-		  <div class="ct" data-aos="fade-up">
-			  
-			  <div class="row" data-aos="fade-up">
-					<div class="col-md-3 col-sm-6">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#" >Home Page</a>
+        </div>
+        </div>
+  
+    </nav>
+        <div class="container-fluid">
+            <div class="text-center" style="margin-bottom:0">
+                <h1>诗人生平路线图</h1>
+                <p class="small">
+                    这些诗人都去过哪？
+                </p>
+            </div>
 
-                        <div class="item__bg" >
-                           <center>
-							<a href="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=176befc2c8ef76093c0b9e9916e6c4f1" target='_blank'> <img class="pic" src="http://123.4hn.org/dao/zhylc/lb.jpg" width="150" height="200"></a>
-							   
-                            <div class="name" >李白 </div>
-							   </center>
+            <div class="search" id="box">
+                <center>
+                    <input type="text" id="searchText" name="search" placeholder="请输入诗人名称">
+                   <button type = "button"  id="search" onclick = "searchPoet()" data-loading-text="Loading...">搜索 <span class="glyphicon glyphicon-search"></span></button>
+
+                </center>
+            </div>
+        </div>
+
+
+        <!--	<section class="bg-off-white pb-40 pt-30">-->
+        <div class="container-fluid">
+            <div class="ct" data-aos="fade-up">
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-3 col-sm-6">
+
+                        <div class="item__bg">
+                            <center>
+                                <a href="http://localhost/maps/poetsroads.html?poetName=LiBai" target='_blank'> <img class="pic" src="http://123.4hn.org/dao/zhylc/lb.jpg" width="150" height="200"></a>
+
+                                <div class="name">李白 </div>
+                            </center>
                             <div class="description">
                                 李白（701年－762年） ，字太白，号青莲居士，又号“谪仙人”，是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”。
                             </div>
                         </div>
                     </div>
-				  
-                    
-			  
-			 
-					<div class="col-md-3 col-sm-6">
 
-                        <div class="item__bg" >
-                           <center>
-							<a href="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=176befc2c8ef76093c0b9e9916e6c4f1" > <img class="pic" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561610139865&di=c1fcb8f1f4fc98b19c332e2cbf4b1153&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180805%2Ff8f31cdb5f9040afa764dc29509dee60.jpeg"></a>
-							   
-                            <div class="name" >杜甫 </div>
-							   </center>
+
+
+
+                    <div class="col-md-3 col-sm-6">
+
+                        <div class="item__bg">
+                            <center>
+                                <a href="http://localhost/maps/poetsroads.html?poetName=DuFu" target='_blank'> <img class="pic" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561610139865&di=c1fcb8f1f4fc98b19c332e2cbf4b1153&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180805%2Ff8f31cdb5f9040afa764dc29509dee60.jpeg"></a>
+
+                                <div class="name">杜甫 </div>
+                            </center>
                             <div class="description">
                                 杜甫（712年—770年），字子美，自号少陵野老，唐代伟大的现实主义诗人，被后人称为“诗圣”，他的诗被称为“诗史”。
                             </div>
                         </div>
                     </div>
-				  
-				  	
-				  <div class="col-md-3 col-sm-6">
 
-                        <div class="item__bg" >
-                           <center>
-							<a href="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=176befc2c8ef76093c0b9e9916e6c4f1" target='_blank'> <img class="pic" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3470644387,3551881596&fm=26&gp=0.jpg" width="150" height="200"></a>
-							   
-                            <div class="name" >孟浩然 </div>
-							   </center>
+
+                    <div class="col-md-3 col-sm-6">
+
+                        <div class="item__bg">
+                            <center>
+                                <a href="http://localhost/maps/poetsroads.html?poetName=MengHaoRan" target='_blank'> <img class="pic" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3470644387,3551881596&fm=26&gp=0.jpg" width="150" height="200"></a>
+
+                                <div class="name">孟浩然 </div>
+                            </center>
                             <div class="description">
                                 孟浩然（689年—740年），名浩，字浩然，号孟山人，唐代著名的山水田园派诗人，世称“孟襄阳”。因他未曾入仕，又称之为“孟山人”。
                             </div>
                         </div>
                     </div>
-				  
-					
-						<div class="col-md-3 col-sm-6">
 
-                        <div class="item__bg" >
-                           <center>
-							<a href="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=176befc2c8ef76093c0b9e9916e6c4f1" target='_blank'> <img class="pic" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1984064131,3953965947&fm=26&gp=0.jpg" width="150" height="200"></a>
-							   
-                            <div class="name" >王维 </div>
-							   </center>
-                            <div class="description">
-                                王维（701年－761年，一说699年—761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，有“诗佛”之称"。
-                            </div>
+
+                    <div class="col-md-3 col-sm-6">
+
+                        <div class="item__bg">
+                            <center>
+                                <a href="http://localhost/maps/poetsroads.html?poetName=WangWei"> <img class="pic" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1984064131,3953965947&fm=26&gp=0.jpg" width="150" height="200"></a>
+
+                                <div class="name">王维 </div>
+                            </center>
+                            <div class="description"> 王维（701年－761年），字摩诘，号摩诘居士，唐朝著名诗人、画家，有“诗佛”之称"。唐肃宗乾元年间任尚书右丞，故世称“王右丞”。 </div>
                         </div>
-                    </div>		  
+                    </div>
+
+
+
+
+                    <script>
+                        poetList = ['BaoZheng', 'CenShen', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi',
+                            'HanYu', 'HuangTingJian', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu',
+                            'LiHe', 'LingHuChu', 'LiQingZhao', 'LiuChangQing', 'LiuZongYuan',
+                            'LuoBinWang', 'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuZenYu',
+                            'PiRiXiu', 'poet', 'QianQi', 'QingGuan', 'QuanDeYu', 'SongXiang',
+                            'SongZhiWen', 'SuShi', 'SuXun', 'SuZhe', 'WangBo', 'WangChangLing',
+                            'WangJi', 'WangWei', 'WangZhi', 'WeiYingWu', 'WeiZheng', 'WenTianXiang',
+                            'XiaoYingShi', 'XinQiJi', 'YangJiong', 'YangWanLi', 'YaoHe', 'ZengGongLiang',
+                            'ZhangChe', 'ZhouHe'
+                        ];
+                        var url = window.location.href;
+                        var poetName;
+                        if (url.indexOf("=") == -1) poetName = "LiBai"; //
+                        else poetName = url.substr(url.indexOf("=") + 1);
+                    </script>
+                    <script src="../scripts/Convert_Pinyin.js"></script>
+
+
+                    <script>
+                        function searchPoet() {
+                            var searchTxt = document.getElementById('searchText');
+                            var chinaName = searchTxt.value;
+                            poetName = pinyin.getFullChars(chinaName); //将汉字转为拼音
+                            if (poetName == 'SuXuan') poetName = "SuXun"; //汉字转拼音的脚本把苏洵的拼音处理为suxuan,暂时这样修正
+                            if (poetList.indexOf(poetName) == -1) {
+                                window.alert("抱歉，没有找到" + chinaName + "的结果")
+                            } else {
+                                var newurl = window.location.href.replace("homepage.html", "poetsroads.html");
+                                if (url.indexOf("=") == -1) {
+                                    window.open(newurl + '?' + "poetName=" + poetName);
+                                }
+                                window.location.reload();
+                            }
+                        }
+                    </script>
 					
-				  
-
-
+					
+					<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/aos.css" />
+<script src="https://cdn.staticfile.org/jquery/2.1.1/aos.js"></script>
 <script>
-  poetList =['BaoZheng', 'CenShen', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi', 
-  'HanYu', 'HuangTingJian', 'JiaDao', 'KouZhun', 'LiBai', 'LiDeYu', 
-  'LiHe', 'LingHuChu', 'LiQingZhao', 'LiuChangQing', 'LiuZongYuan',
-   'LuoBinWang', 'LuZhaoLin', 'MengHaoRan', 'MengJiao', 'NiuZenYu',
-    'PiRiXiu', 'poet', 'QianQi', 'QingGuan', 'QuanDeYu', 'SongXiang', 
-    'SongZhiWen', 'SuShi', 'SuXun', 'SuZhe', 'WangBo', 'WangChangLing',
-     'WangJi', 'WangWei', 'WangZhi', 'WeiYingWu', 'WeiZheng', 'WenTianXiang',
-      'XiaoYingShi', 'XinQiJi', 'YangJiong', 'YangWanLi', 'YaoHe', 'ZengGongLiang',
-       'ZhangChe', 'ZhouHe'];
-  var url = window.location.href;
-  var poetName;
-  if(url.indexOf("=") == -1) poetName = "LiBai";    //
-  else poetName = url.substr(url.indexOf("=")+1);
+  AOS.init();
 </script>
-<script src="../scripts/Convert_Pinyin.js"></script>
 
+    </body>
 
-<script>
-  function searchPoet(){
-    var searchTxt = document.getElementById('searchText');
-    var chinaName = searchTxt.value;
-    poetName = pinyin.getFullChars(chinaName);  //将汉字转为拼音
-    if(poetName == 'SuXuan') poetName = "SuXun";  //汉字转拼音的脚本把苏洵的拼音处理为suxuan,暂时这样修正
-    if(poetList.indexOf(poetName) == -1){
-      window.alert("抱歉，没有找到"+chinaName+"的结果")
-    }
-    else{
-      if(url.indexOf("=") == -1)
-        window.history.pushState({}, 0,  window.location.href + '?' +"poetName="+poetName);
-      else{
-        window.history.pushState({}, 0,  url.substr(0,url.indexOf("=")+1)+poetName);
-      }
-      window.location.reload();
-  }
-  
-}</script>
-	
-</body>	
-</html>
-		
+    </html>
