@@ -63,7 +63,8 @@ var addOption = function(data, allOption) {
                 show: true,
                 fontSize: 26,
                 position: 'right',
-                formatter: '{b}'
+                formatter: '{b}',
+                fontFamily: "STKaiti"
             }
         },
         data: data.map(function(dataItem) {
