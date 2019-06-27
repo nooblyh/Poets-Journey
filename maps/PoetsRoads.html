@@ -17,8 +17,16 @@
             background: #aaa;
         }
         
-        .selector {
+        .selector1 {
             font-family: "STXinwei", "MicrosoftJhengHei", STHeiti, MingLiu
+        }
+        
+        .selector2 {
+            font-family: "FangSong_GB2312", 仿宋_GB2312,
+        }
+        
+        .selector3 {
+            font-family: "STKaiti", 华文楷体
         }
         
         .right {
@@ -64,7 +72,7 @@
         }
         
         p {
-            font-size: 14px;
+            font-size: 18px;
         }
     </style>
 </head>
@@ -73,7 +81,7 @@
 
     <div class="text-center" style="background:url(https://img.88tph.com/production/20171212/12384212-1.jpg!/watermark/url/L3BhdGgvbG9nby5wbmc/align/center)">
         <blockquote>
-            <h1 class="selector">
+            <h1 class="selector1">
                 <div style="color:#743A3A">
                     诗人生平路线图
                 </div>
@@ -94,22 +102,22 @@
     <div class="container-fluid">
         <div class="form-inline">
             <div class="col-md-20">
-                <div class="col-sm-3 col-lg-3" style="background-color: #FFEEDD;">
-                    <h2 id="chiName"></h2>
+                <div class="col-sm-3 col-lg-3" style="background-color: #fdf0f1;">
+                    <h2 id="chiName" style="text-align: center" class="selector3"></h2>
                     <div class="row">
-                        <div class="row-lg-6 col-lg-11" style="background-color: #FFEEDD;">
+                        <div class="row-lg-6 col-lg-offset-0 col-lg-12" style="background-color: #fdf0f1;">
 
                             <!--                            <div class=" fakeimg ">这边插入图像</div>-->
-                            <img id="poetImg" src="" class="img-rounded " alt="img" width="304 " height="300 ">
-                            <p id="poetIntro"></p>
+                            <img id="poetImg" src="" class="img-rounded" class="img-responsive" alt="img" width="320" height="300" style="margin: 0 auto">
+                            <p id="poetIntro" class="selector3"></p>
 
                         </div>
 
                     </div>
                     <div class="row-lg-6 ">
 
-                        <p id="poetryName"></p>
-                        <p id="poetry"></p>
+                        <p id="poetryName" style="text-align: center" class="selector1"></p>
+                        <p id="poetry" style="text-align: center" class="selector3"></p>
                         <ul class="nav nav-pills nav-stacked ">
                         </ul>
                     </div>
@@ -122,7 +130,7 @@
             </div>
         </div>
         <div class="jumbotron text-center " style="background-color: #FFEEDD;">
-            <p>第n组</p>
+            <!--            <p>第n组</p>-->
         </div>
         <script>
             poetList = ['BaoZheng', 'CenCan', 'ChengYi', 'DuFu', 'FuBi', 'GaoShi',
@@ -140,7 +148,7 @@
             if (url.indexOf("=") == -1) poetName = "LiBai"; //
             else poetName = url.substr(url.indexOf("=") + 1);
         </script>
-        <script src="../scripts/Convert_Pinyin.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/Convert_Pinyin.js"></script>
 
         <script>
             function searchPoet() {
@@ -163,13 +171,13 @@
         </script>
 
         <script src="http://api.map.baidu.com/api?v=2.0&ak=VEbNXPaYgMqt19eieq6hWKf4jqwZIuUs"></script>
-        <script src="../scripts/incubator-echarts-4.2.1/dist/echarts.js"></script>
-        <script src="../scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/incubator-echarts-4.2.1/dist/echarts.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/incubator-echarts-4.2.1/dist/extension/bmap.js"></script>
         <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
         <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-        <script src="../scripts/showPoet.js"></script>
-        <script src="../scripts/changePoet.js"></script>
-        <script src="../scripts/segment.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/showPoet.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/changePoet.js"></script>
+        <script src="../Documents/GitHub/P_Journey/scripts/segment.js"></script>
 
         <!-- <script src="../coords/LiBaiCoords"></script>  -->
         <!-- <script src="../coords/DuFuCoords"></script> -->
